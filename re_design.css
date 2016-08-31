@@ -1,3 +1,8 @@
+.re_start{
+  font-size: 17px;
+  font-family: Arial;
+  color: #000000;
+}
 .re_menu{
   display: block;
   width: 750px;
@@ -37,7 +42,7 @@
 }
 
 .re_heading{
-  font-size: 20px;
+  font-size: 17px;
   font-family: "Courier New", Arial;
 }
 
