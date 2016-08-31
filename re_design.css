@@ -1,5 +1,26 @@
 
 
+.re_menu{
+  display: block;
+  width: 750px;
+  float: left;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.re_menu ul{
+  border-right: 4px solid #000000;
+  float: left;
+}
+
+.re_menu ul li{
+  list-style: none;
+}
+
+.re_menu ul li a{
+  text-decoration: none;
+}
+
 .re_word{
   font-size: 14px;
   font-family: "Courier New", Arial;
