@@ -20,11 +20,13 @@
 }
 
 .re_menu ul li a{
+  color: #111111;
   text-decoration: none;
 }
 
 .re_menu ul li a:hover{
-  color: #000000;
+  color: #FFFFFF;
+  background-color: #000000;
 }
 
 .re_word{
