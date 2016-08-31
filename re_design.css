@@ -15,6 +15,7 @@
 
 .re_menu ul li{
   display: block;
+  padding: 7px;
   list-style: none;
 }
 
