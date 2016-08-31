@@ -2,6 +2,7 @@
 
 .re_menu{
   display: block;
+  padding: 4px;
   width: 750px;
   float: left;
   overflow: hidden;
@@ -14,12 +15,15 @@
 }
 
 .re_menu ul li{
-  margin: 0px;
   list-style: none;
 }
 
 .re_menu ul li a{
   text-decoration: none;
+}
+
+.re_menu ul li a:hover{
+  color: #000000;
 }
 
 .re_word{
