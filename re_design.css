@@ -22,6 +22,10 @@
   list-style: none;
 }
 
+.re_menu ul li:hover{
+  color: #77AAE4;
+}
+
 .re_menu ul li a{
   padding: 4px 7px 4px 7px;
   color: #111111;
