@@ -23,6 +23,7 @@
 }
 
 .re_menu ul li a{
+  padding: 4px;
   color: #111111;
   text-decoration: none;
 }
