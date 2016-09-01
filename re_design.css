@@ -13,12 +13,16 @@
   margin: 0;
   overflow: hidden;
   position: absolute;
-  z-index: 1;
+}
+
+.re_menu ul{
+  margin: 0;
+  padding: 0;
 }
 
 .re_menu ul li{
   display: block;
-  padding: 2px;
+  padding: 7px;
   list-style: none;
 }
 
