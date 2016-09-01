@@ -75,10 +75,10 @@
 .re_me{
   display: inline-block;
   background-image: url("re_me.png");
-  background-size: cover;
+  background-size: auto;
   background-repeat: no-repeat;
-  background-position center;
-  width: 150px;
+  background-position: left;
+  width: 700px;
   height: 150px;
   margin: 0;
   position: relative;
