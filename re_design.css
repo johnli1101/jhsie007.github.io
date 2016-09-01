@@ -3,11 +3,13 @@
   font-family: "Courier New", Arial;
   color: #000000;
 }
+
 .re_menu{
   display: block;
   width: 750px;
   float: left;
   overflow: hidden;
+  position: absolute;
   z-index: 1;
 }
 
