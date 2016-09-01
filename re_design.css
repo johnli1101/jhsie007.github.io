@@ -11,7 +11,7 @@
   margin: 0;
   float: left;
   overflow: hidden;
-  /*position: absolute;*/
+  position: absolute;
   z-index: 1;
 }
 
@@ -39,7 +39,7 @@
 
 .re_world{
   display: block;
-  margin: 0;
+  margin: auto;
   position: relative;
 }
 
