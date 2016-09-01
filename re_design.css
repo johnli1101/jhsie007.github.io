@@ -49,6 +49,7 @@
 
 .re_word{
   display: inline-block;
+  width: 75%;
   font-size: 14px;
   font-family: "Courier New", Arial;
   white-space: nowrap;
