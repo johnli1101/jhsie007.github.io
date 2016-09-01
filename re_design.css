@@ -66,6 +66,7 @@
 }
 
 .re_sf{
+  display: inline-block;
   background-image: url("San_Francisco.png");
   background-size: cover;
   background-repeat: no-repeat;
@@ -78,6 +79,7 @@
 }
 
 .re_sea{
+  display: inline-block;
   background-image: url("Sea.png");
   background-size: cover;
   background-repeat: no-repeat;
