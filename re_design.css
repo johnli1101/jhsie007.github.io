@@ -67,6 +67,19 @@
   width: 850px;
 }
 
+.re_me{
+  display: inline-block;
+  background-image: url("re_me.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position center;
+  width: 200px;
+  height: 200px;
+  margin: 0;
+  position: relative;
+  overflow: hidden;
+}
+
 .re_sf{
   display: inline-block;
   background-image: url("San_Francisco.png");
