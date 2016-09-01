@@ -11,14 +11,12 @@
   width: 15%;
   height: 100%;
   margin: 0;
-  float: left;
   overflow: hidden;
   position: absolute;
   z-index: 1;
 }
 
 .re_menu ul{
-  float: left;
 }
 
 .re_menu ul li{
