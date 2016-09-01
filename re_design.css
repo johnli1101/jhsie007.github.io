@@ -60,6 +60,7 @@
 .re_heading{
   font-size: 17px;
   font-family: "Courier New", Arial;
+  padding: 2px;
 }
 
 .re_fragments{
