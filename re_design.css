@@ -6,11 +6,11 @@
 }
 
 .re_menu{
+  border-right: 1px solid #000000;
   display: block;
   width: 25%;
   height: 100%;
   margin: 0;
-  padding: 2px;
   float: left;
   overflow: hidden;
   position: absolute;
@@ -18,7 +18,6 @@
 }
 
 .re_menu ul{
-  border-right: 1px solid #000000;
   float: left;
 }
 
