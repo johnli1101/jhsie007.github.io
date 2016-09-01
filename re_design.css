@@ -1,6 +1,6 @@
 .re_start{
   font-size: 17px;
-  font-family: Arial;
+  font-family: "Courier New", Arial;
   color: #000000;
 }
 .re_menu{
@@ -12,7 +12,7 @@
 }
 
 .re_menu ul{
-  border-right: 2px solid #000000;
+  border-right: 1px solid #000000;
   float: left;
 }
 
@@ -20,10 +20,6 @@
   display: block;
   padding: 7px;
   list-style: none;
-}
-
-.re_menu ul li:hover{
-  color: #77AAE4;
 }
 
 .re_menu ul li a{
