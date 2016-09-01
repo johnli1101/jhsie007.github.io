@@ -8,6 +8,7 @@
   display: block;
   width: 25%;
   height: 100%;
+  margin: 0;
   float: left;
   overflow: hidden;
   position: absolute;
@@ -38,6 +39,7 @@
 
 .re_world{
   display: block;
+  margin: 0;
   position: relative;
 }
 
