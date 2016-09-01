@@ -62,18 +62,20 @@
 }
 
 .re_heading{
-  border-bottom: 1px solid #F0F0F0;
-  font-size: 17px;
+  border-bottom: 1px solid #E0E0E0;
+  font-size: 20px;
   font-family: "Courier New", Arial;
-  padding: 2px;
+  font-weight: bold;
+  padding: 4px;
 }
 
 
 .re_group{
-  border-bottom: 1px solid #F0F0F0;
-  font-size: 16px;
+  border-bottom: 1px solid #E0E0E0;
+  font-size: 17px;
   font-family: "Courier New", Arial;
-  padding: 2px;
+  font-weight: bold;
+  padding: 4px;
 }
 
 .re_fragments{
