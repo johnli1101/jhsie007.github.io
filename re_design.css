@@ -61,18 +61,19 @@
 }
 
 .re_fragments{
-  display: inline-block;
+  display: block;
 }
 
 .re_sf{
   background-image: url("San_Francisco.png");
-  background-size: auto;
+  background-size: contain;
   width: 400px;
   height: 200px;
 }
 
 .re_sea{
   background-image: url("Sea.png");
+  background-size: auto;
   width: 400px;
   height: 200px;
 }
