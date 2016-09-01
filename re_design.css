@@ -108,6 +108,7 @@
 }
 
 .re_sf{
+  border: 1px solid #F0F0F0;
   display: inline-block;
   background-image: url("San_Francisco.png");
   background-size: cover;
@@ -121,6 +122,7 @@
 }
 
 .re_sea{
+  border: 1px solid #F0F0F0;
   display: inline-block;
   background-image: url("Sea.png");
   background-size: cover;
