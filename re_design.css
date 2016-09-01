@@ -27,6 +27,10 @@
   list-style: none;
 }
 
+.re_menu ul li:hover{
+  background-color: #77AAE4;
+}
+
 .re_menu ul li a{
   padding: 4px 7px 4px 7px;
   color: #111111;
@@ -35,7 +39,6 @@
 
 .re_menu ul li a:hover{
   color: #FFFFFF;
-  background-color: #77AAE4;
 }
 
 .re_world{
