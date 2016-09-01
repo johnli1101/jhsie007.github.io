@@ -16,9 +16,6 @@
   z-index: 1;
 }
 
-.re_menu ul{
-}
-
 .re_menu ul li{
   display: block;
   padding: 7px;
@@ -43,7 +40,7 @@
   background-color: #FFFFFF;
   display: block;
   width: 70%;
-  margin: auto;
+  margin: 0;
   padding: 2px;
   position: relative;
 }
