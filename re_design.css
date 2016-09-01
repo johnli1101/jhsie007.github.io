@@ -50,6 +50,7 @@
 .re_word{
   display: inline-block;
   width: 75%;
+  margin: 0;
   padding: 4px;
   font-size: 14px;
   font-family: "Courier New", Arial;
