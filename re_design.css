@@ -37,8 +37,9 @@
 }
 
 .re_world{
-  width: auto;
+  float: right;
   position: relative;
+
 }
 
 .re_word{
