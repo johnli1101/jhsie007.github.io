@@ -42,12 +42,16 @@
 }
 
 .re_world{
-  background-color: #FFFFFF;
+  background-color: #F0F0F0;
   display: block;
   width: 70%;
   margin-left: 17%;
   padding: 2px;
   position: relative;
+}
+
+.re_rem{
+  background-color: #FFFFFF;
 }
 
 .re_word{
