@@ -12,7 +12,7 @@
   height: 100%;
   margin: 0;
   overflow: hidden;
-  position: absolute;
+  /*position: absolute;*/
   z-index: 1;
 }
 
@@ -40,7 +40,7 @@
   background-color: #FFFFFF;
   display: block;
   width: 70%;
-  margin: 0;
+  margin: ;
   padding: 2px;
   position: relative;
 }
