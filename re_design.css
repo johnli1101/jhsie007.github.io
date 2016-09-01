@@ -69,19 +69,21 @@
   background-image: url("San_Francisco.png");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: 50% 50%;
+  background-position: 25% 50%;
   width: 400px;
   height: 200px;
+  margin: 0;
   position: relative;
 }
 
 .re_sea{
   background-image: url("Sea.png");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
   width: 400px;
   height: 200px;
+  margin: 0;
   position: relative;
 }
 
