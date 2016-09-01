@@ -36,6 +36,10 @@
   background-color: #77AAE4;
 }
 
+.re_world{
+  position: relative;
+}
+
 .re_word{
   font-size: 14px;
   font-family: "Courier New", Arial;
