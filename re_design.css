@@ -64,6 +64,15 @@
   display: inline-block;
 }
 
+.re_sf{
+  background-image: url("San_Francisco.png");
+  width: 200px;
+  height: 200px;
+}
+
+.re_sea{
+  background-image: url("Sea.png");
+}
 
 .clearfix:before,
 .clearfix:after{
