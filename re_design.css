@@ -67,6 +67,10 @@
   width: 850px;
 }
 
+.re_initialize{
+  display: inline-block;
+}
+
 .re_me{
   display: inline-block;
   background-image: url("re_me.png");
