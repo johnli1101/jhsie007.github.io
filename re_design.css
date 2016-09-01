@@ -66,6 +66,7 @@
 
 .re_sf{
   background-image: url("San_Francisco.png");
+  background-size: auto;
   width: 400px;
   height: 200px;
 }
