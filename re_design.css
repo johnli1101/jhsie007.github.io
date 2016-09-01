@@ -67,18 +67,22 @@
 
 .re_sf{
   background-image: url("San_Francisco.png");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
+  background-position: 50% 50%;
   width: 400px;
   height: 200px;
+  position: relative;
 }
 
 .re_sea{
   background-image: url("Sea.png");
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: 50% 50%;
   width: 400px;
   height: 200px;
+  position: relative;
 }
 
 .clearfix:before,
