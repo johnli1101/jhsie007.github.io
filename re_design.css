@@ -62,9 +62,9 @@
 }
 
 .re_heading{
+  border-bottom: 1px solid #F0F0F0;
   font-size: 17px;
   font-family: "Courier New", Arial;
-  height: 
   margin: 0;
   padding: 4px;
 }
