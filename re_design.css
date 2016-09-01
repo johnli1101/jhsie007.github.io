@@ -42,7 +42,7 @@
   background-color: #F0F0F0;
   display: block;
   width: 75%;
-  margin: auto;
+  margin: 0;
   padding: 2px;
   position: relative;
 }
@@ -64,12 +64,14 @@
 .re_heading{
   font-size: 17px;
   font-family: "Courier New", Arial;
+  margin: 0;
   padding: 4px;
 }
 
 .re_group{
   font-size: 16px;
   font-family: "Courier New", Arial;
+  margin: 0;
   padding: 4px;
 }
 
