@@ -60,6 +60,11 @@
   font-family: "Courier New", Arial;
 }
 
+.re_fragments{
+  display: inline-block;
+}
+
+
 .clearfix:before,
 .clearfix:after{
   content: " ";
@@ -70,6 +75,3 @@
   clear: both;
 }
 
-.block{
-  display: block;
-}
