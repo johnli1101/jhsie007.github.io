@@ -67,7 +67,8 @@
   font-family: "Courier New", Arial;
   font-weight: bold;
   width: 100%;
-  margin: 5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
   padding: 4px;
 }
 
@@ -78,6 +79,8 @@
   font-family: "Courier New", Arial;
   font-weight: bold;
   width: 100%;
+  margin-top: 2%;
+  margin-bottom: 2%;
   padding: 4px;
 }
 
