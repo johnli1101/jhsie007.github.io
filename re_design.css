@@ -22,7 +22,7 @@
 }
 
 .re_menu ul li{
-  display: inline-block;
+  display: block;
   padding: 7px;
   list-style: none;
 }
