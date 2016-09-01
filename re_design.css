@@ -22,7 +22,7 @@
 }
 
 .re_menu ul li{
-  display: block;
+  display: inline-block;
   padding: 7px;
   list-style: none;
 }
@@ -73,7 +73,7 @@
 
 .re_sea{
   background-image: url("Sea.png");
-  background-size: auto;
+  background-size: contain;
   width: 400px;
   height: 200px;
 }
