@@ -78,6 +78,16 @@
   text-decoration: none;
 }
 
+.re_profile{
+  display: inline-block;
+  width: 75%;
+  margin: 0;
+  padding: 4px;
+  font-size: 14px;
+  font-family: "Courier New", Arial;
+  white-space: nowrap;
+}
+
 .re_heading{
   border-bottom: 1px solid #E0E0E0;
   font-size: 20px;
