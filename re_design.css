@@ -42,6 +42,10 @@
   color: #FFFFFF;
 }
 
+.re_menu ul li i{
+  margin-right: 4%;
+}
+
 .re_world{
   background-color: #F7F7F7;
   display: block;
