@@ -7,7 +7,7 @@
 }
 
 .re_menu{
-  border-right: 1px solid #000000;
+  box-shadow: 0px 1px 7px #E0E0E0;
   display: block;
   width: 15%;
   height: 100%;
