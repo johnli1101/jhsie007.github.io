@@ -1,6 +1,6 @@
 .re_start{
   font-size: 17px;
-  font-family: "Courier New", Arial;
+  font-family: 'Open Sans Condensed', Arial;
   color: #000000;
   white-space: nowrap;
   height: 10%;
@@ -64,7 +64,7 @@
   margin: 0;
   padding: 4px;
   font-size: 14px;
-  font-family: "Courier New", Arial;
+  font-family: 'Open Sans Condensed', Arial;
   white-space: nowrap;
 }
 
@@ -84,14 +84,14 @@
   margin: 0;
   padding: 4px;
   font-size: 14px;
-  font-family: "Courier New", Arial;
+  font-family: 'Open Sans Condensed', Arial;
   white-space: nowrap;
 }
 
 .re_heading{
   border-bottom: 1px solid #E0E0E0;
   font-size: 20px;
-  font-family: "Courier New", Arial;
+  font-family: 'Open Sans Condensed', Arial;
   font-weight: bold;
   width: 95%;
   margin: 20px 0px 10px 10px;
@@ -102,7 +102,7 @@
 .re_group{
   border-bottom: 1px solid #E0E0E0;
   font-size: 17px;
-  font-family: "Courier New", Arial;
+  font-family: 'Open Sans Condensed', Arial;
   font-weight: bold;
   width: 100%;
   margin: 10px 0px 10px 10px;
