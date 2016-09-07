@@ -68,6 +68,11 @@
   white-space: nowrap;
 }
 
+.re_word span{
+  font-size: 17px;
+  font-weight: 700;
+}
+
 .re_word ul li{
   text-decoration: none;
 }
