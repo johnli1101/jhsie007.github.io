@@ -7,7 +7,7 @@
 }
 
 .re_menu{
-  box-shadow: 4px 0px 0px #E0E0E0;
+  box-shadow: 2px 0px 0px #E0E0E0;
   display: block;
   width: 15%;
   height: 100%;
@@ -191,4 +191,8 @@
 
 .top_margin{
   margin-top: 45%;
+}
+
+html, body{
+  height: 100%;
 }
