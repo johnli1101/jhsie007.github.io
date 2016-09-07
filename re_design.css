@@ -145,6 +145,20 @@
   overflow: hidden;
 }
 
+.re_bot{
+  border: 1px solid #F0F0F0;
+  display: inline-block;
+  background-image: url(Bot.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 400px;
+  height: 200px;
+  margin: 0;
+  position: relative;
+  overflow: hidden;
+}
+
 .clearfix:before,
 .clearfix:after{
   content: " ";
