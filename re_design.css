@@ -69,8 +69,9 @@
 }
 
 .re_word span{
-  font-size: 17px;
+  font-size: 16px;
   font-weight: 700;
+  color: #0E0E0E;
 }
 
 .re_word ul li{
