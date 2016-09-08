@@ -1,7 +1,7 @@
 .snow{
   border: 1px solid #000000;
-  width: 750px;
-  height: 250px;
+  width: 650px;
+  height: 350px;
   margin: 17px 0px 0px 17px;
 }
 
@@ -232,7 +232,7 @@ html, body{
 }
 
 .carousel-item{
-  width: 600px;
-  height: 200px;
-
+  width: 650px;
+  height: 350px;
 }
+
