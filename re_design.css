@@ -68,6 +68,7 @@
 }
 
 .re_rem{
+  display: inline-block;
   background-color: #FFFFFF;
   width: 95%;
   margin: auto;
