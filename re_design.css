@@ -1,9 +1,8 @@
 .snow{
-  background-color: #123231;
+  border: 1px solid #000000;
   width: 750px;
   height: 250px;
   margin: 17px 0px 0px 17px;
-
 }
 .re_start{
   font-size: 17px;
