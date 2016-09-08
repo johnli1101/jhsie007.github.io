@@ -4,6 +4,7 @@ function snow(){
     document.write(rem);
     /*document.getElementByClassName("");*/
 
-    setTimeout(snow, 5000);
   }
+
+  setTimeout(snow, 5000);
 }
