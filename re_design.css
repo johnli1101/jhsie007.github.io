@@ -98,7 +98,7 @@
   font-family: 'Open Sans Condensed', Arial;
   font-weight: bold;
   width: 95%;
-  margin: 20px 0px 10px 10px;
+  margin: 20px 0px 10px 17px;
   padding: 4px;
 }
 
@@ -109,7 +109,7 @@
   font-family: 'Open Sans Condensed', Arial;
   font-weight: bold;
   width: 100%;
-  margin: 10px 0px 10px 10px;
+  margin: 10px 0px 10px 17px;
   padding: 4px;
 }
 
@@ -132,7 +132,7 @@
   background-position: left;
   width: 150px;
   height: 150px;
-  margin: 2px 0px 0px 10px;
+  margin: 2px 0px 0px 17px;
   position: relative;
   overflow: hidden;
 }
@@ -146,7 +146,7 @@
   background-position: center;
   width: 400px;
   height: 200px;
-  margin: 2px 0px 0px 10px;
+  margin: 2px 0px 0px 17px;
   position: relative;
   overflow: hidden;
 }
@@ -160,7 +160,7 @@
   background-position: center;
   width: 400px;
   height: 200px;
-  margin: 2px 0px 0px 10px;
+  margin: 2px 0px 0px 17px;
   position: relative;
   overflow: hidden;
 }
@@ -174,7 +174,7 @@
   background-position: center;
   width: 400px;
   height: 200px;
-  margin: 2px 0px 0px 10px;
+  margin: 2px 0px 0px 17px;
   position: relative;
   overflow: hidden;
 }
