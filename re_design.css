@@ -237,9 +237,9 @@ html, body{
 .carousel-caption{
   background-color: rgba(0,0,0,0.5);
   font-family: 'Open Sans Condensed', Arial;
+  max-width: 100%;
   width: 100%;
-  left: 0%;
-  right: auto;
+  left: 0;
   position: relative;
 }
 
