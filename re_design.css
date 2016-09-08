@@ -181,6 +181,20 @@
   overflow: hidden;
 }
 
+.re_heart{
+  border: 1px solid #E0E0E0;
+  display: inline-block;
+  background-image: url(Heart.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 400px;
+  height: 200px;
+  margin: 2px 0px 0px 17px;
+  position: relative;
+  overflow: hidden;
+}
+
 .clearfix:before,
 .clearfix:after{
   content: " ";
@@ -201,6 +215,12 @@ html, body{
 }
 
 .ram{
-
-
+  font-size: 12px;
+  font-family: 'Open Sans Condensed', Arial;
+  color: #000000;
+  white-space: nowrap;
+  height: 10%;
+  margin: 2px 0px 2px 17px;
 }
+
+
