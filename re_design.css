@@ -237,6 +237,6 @@ html, body{
 .carousel-caption{
   background-color: rgba(0,0,0,0.5);
   margin: 7px 0px 0px 0px;
-  width: auto;
+  width: 100%;
 }
 
