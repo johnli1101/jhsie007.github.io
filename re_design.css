@@ -4,6 +4,7 @@
   height: 250px;
   margin: 17px 0px 0px 17px;
 }
+
 .re_start{
   font-size: 17px;
   font-family: 'Open Sans Condensed', Arial;
@@ -230,3 +231,8 @@ html, body{
   margin: 2px 0px 2px 17px;
 }
 
+.carousel{
+  width: 700px;
+  height: 300px;
+
+}
