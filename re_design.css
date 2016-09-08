@@ -50,7 +50,7 @@
 .re_world{
   background-color: #F7F7F7;
   display: block;
-  width: 80%;
+  width: auto;
   margin-left: 17%;
   padding: 2px;
   position: relative;
@@ -58,7 +58,7 @@
 
 .re_rem{
   background-color: #FFFFFF;
-  width: auto;
+  width: 95%;
   margin: auto;
 }
 
