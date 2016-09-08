@@ -240,6 +240,7 @@ html, body{
   font-family: 'Open Sans Condensed', Arial;
   width: 100%;
   margin: 0;
+  left: 0;
   padding: 4px;
 
 }
