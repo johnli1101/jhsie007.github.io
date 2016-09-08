@@ -238,6 +238,7 @@ html, body{
   display: inline-block;
   background-color: rgba(0,0,0,0.5);
   font-family: 'Open Sans Condensed', Arial;
+  width: 100%;
   margin: 0;
   padding: 4px;
 
