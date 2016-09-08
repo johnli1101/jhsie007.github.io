@@ -53,10 +53,6 @@
   color: #FFFFFF;
 }
 
-.re_menu ul li i{
-
-}
-
 .re_world{
   background-color: #F7F7F7;
   display: block;
@@ -238,3 +234,8 @@ html, body{
   height: 350px;
 }
 
+.carousel-caption{
+  background-color: #000000;
+  margin: 4px 0px 0px 0px;
+  opacity: 0.5;
+}
