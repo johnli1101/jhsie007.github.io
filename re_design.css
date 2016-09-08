@@ -242,6 +242,6 @@ html, body{
   margin: 0;
   left: 0;
   padding: 4px;
-
+  position: absolute;
 }
 
