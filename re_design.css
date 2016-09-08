@@ -1,3 +1,9 @@
+.snow{
+  background-color: #123231;
+  width: 750px;
+  height: 550px;
+
+}
 .re_start{
   font-size: 17px;
   font-family: 'Open Sans Condensed', Arial;
@@ -222,5 +228,4 @@ html, body{
   height: 10%;
   margin: 2px 0px 2px 17px;
 }
-
 
