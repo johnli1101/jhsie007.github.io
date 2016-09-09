@@ -129,8 +129,9 @@
   width: 75%;
   margin: 7px 0px 17px 17px;
   padding: 4px;
-  font-size: 14px;
+  font-size: 15px;
   font-family: 'Open Sans Condensed', Arial;
+  letter-spacing: 1px;
 }
 
 .re_heading{
