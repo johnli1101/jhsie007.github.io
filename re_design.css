@@ -110,14 +110,10 @@
   padding: 4px;
 }
 
-
-.re_group{
-  border-bottom: 1px solid #E0E0E0;
+.re_title{
   font-size: 17px;
   font-family: 'Open Sans Condensed', Arial;
   font-weight: bold;
-  width: 100%;
-  margin: 10px 0px 10px 17px;
   padding: 4px;
 }
 
