@@ -186,6 +186,7 @@
   position: relative;
   visibility: hidden;
   text-align: center;
+  background-color; rgba(0,0,0,0.5);
 }
 
 .re_interests:hover p{
@@ -194,7 +195,6 @@
   font-size: 14px;
   font-family: 'Open Sans Condensed', Arial;
   font-weight: bold;
-  background-color; rgba(0,0,0,0.5);
   width: 100%;
 }
 
