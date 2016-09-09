@@ -96,7 +96,6 @@
   padding: 4px;
   font-size: 14px;
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
-  letter-spacing: 1px;
 }
 
 .re_word span{
@@ -130,14 +129,14 @@
   margin: 7px 0px 17px 17px;
   padding: 4px;
   font-size: 15px;
-  font-family: 'Open Sans Condensed', Arial;
+  font-family: 'Open Sans', 'Open Sans Condensed', Arial;
   letter-spacing: 1px;
 }
 
 .re_heading{
   border-bottom: 1px solid #E0E0E0;
   font-size: 21px;
-  font-family: 'Open Sans Condensed', Arial;
+  font-family: 'Open Sans', 'Open Sans Condensed', Arial;
   font-weight: bold;
   letter-spacing: 1px;
   width: 97%;
@@ -148,7 +147,7 @@
 .re_title{
   display: inline-block;
   font-size: 18px;
-  font-family: 'Open Sans Condensed', Arial;
+  font-family: 'Open Sans', 'Open Sans Condensed', Arial;
   font-weight: bold;
   margin: 4px 0px 10px 17px;
   padding: 4px;
@@ -176,7 +175,7 @@
 .re_content{
   display: inline-block;
   font-size: 14px;
-  font-family: 'Open Sans Condensed', Arial;
+  font-family: 'Open Sans', 'Open Sans Condensed', Arial;
   padding: 4px;
 }
 
