@@ -149,6 +149,11 @@
   padding: 2px;
 }
 
+.re_interests{
+  width: 100%;
+  height: 100%;
+}
+
 .re_interests div{
   width: 100%;
   height: 100%;
