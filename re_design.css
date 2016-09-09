@@ -149,6 +149,28 @@
   padding: 2px;
 }
 
+.re_interests p{
+  margin: 0;
+  padding: 155px 0px 0px 0px;
+  width: 100%;
+  position: relative;
+  visibility: hidden;
+  text-align: center;
+}
+
+.re_interests:hover p{
+  visibility: visible;
+  display: inline-block;
+  font-size: 14px;
+  font-family: 'Open Sans Condensed', Arial;
+  font-weight: bold;
+  width: 100%;
+}
+
+.re_shade{
+  background-color: rgba(0,0,0,0.5);
+}
+
 .re_me{
   border: 1px solid #E0E0E0;
   display: inline-block;
@@ -177,27 +199,6 @@
   overflow: hidden;
   color: #FFFFFF;
 }
-
-
-.re_interests p{
-  margin: 0;
-  padding: 155px 0px 0px 0px;
-  width: 100%;
-  position: relative;
-  visibility: hidden;
-  text-align: center;
-  background-color: rgba(0,0,0,0.5);
-}
-
-.re_interests:hover p{
-  visibility: visible;
-  display: inline-block;
-  font-size: 14px;
-  font-family: 'Open Sans Condensed', Arial;
-  font-weight: bold;
-  width: 100%;
-}
-
 
 .re_sea{
   border: 1px solid #E0E0E0;
