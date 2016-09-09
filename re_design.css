@@ -171,9 +171,8 @@
 }
 
 .re_interests p{
-  position: absolute;
-  left: 0;
-  bottom: 0;
+  margin: 20px 0px 0px 0px;
+  position: relative;
   visibility: hidden;
 }
 
