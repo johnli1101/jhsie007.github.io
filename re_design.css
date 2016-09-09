@@ -51,6 +51,8 @@
   padding: 4px;
   color: #111111;
   text-decoration: none;
+  width: 100%;
+  height: 100%;
 }
 
 .re_menu ul li a:hover{
@@ -91,6 +93,11 @@
 
 .re_word ul li{
   text-decoration: none;
+}
+
+.re_word li a{
+  width: 100%;
+  height: 100%;
 }
 
 .re_profile{
