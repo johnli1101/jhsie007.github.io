@@ -127,7 +127,8 @@
 
 .re_container{
   display: inline-block;
-  margin: 7px 0px 4px 17px;
+  /*margin: 7px 0px 4px 17px;*/
+  top: 0;
   width: 60%;
   height: 175px;
 }
