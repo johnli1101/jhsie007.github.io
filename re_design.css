@@ -169,11 +169,11 @@
 
 .re_shade{
   visibility: hidden;
-  background-color: rgba(0,0,0,0.5);
 }
 
 .re_shade{
   visibility: visible;
+  background-color: rgba(0,0,0,0.5);
 }
 
 .re_me{
