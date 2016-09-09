@@ -168,7 +168,12 @@
 }
 
 .re_shade{
+  visibility: hidden;
   background-color: rgba(0,0,0,0.5);
+}
+
+.re_shade{
+  visibility: visible;
 }
 
 .re_me{
