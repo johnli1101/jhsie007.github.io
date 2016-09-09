@@ -85,6 +85,11 @@
   color: #0E0E0E;
 }
 
+.re_word li:hover{
+  background-color: #77AAE4;
+  color: #FFFFFF;
+}
+
 .re_word ul li{
   text-decoration: none;
 }
