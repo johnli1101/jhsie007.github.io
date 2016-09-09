@@ -170,7 +170,7 @@
   font-family: 'Open Sans Condensed', Arial;
   font-size: 14px;
   text-align: center;
-  top: 100px;
+  bottom: 0;
   position: absolute;
 }
 
