@@ -34,3 +34,4 @@ function object(width, height, color, x, y, type){
   this.gravity = 0;
   this.gravitySpeed = 1;
 }
+
