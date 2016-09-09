@@ -122,6 +122,10 @@
   width: 850px;
 }
 
+.re_container{
+  width: 50%;
+}
+
 .re_initialize{
   display: inline-block;
   width: 100%;
