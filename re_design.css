@@ -178,11 +178,14 @@
   color: #000000;
 }
 
+.re_interests{
+  width: 100%;
+  height: 100%;
+}
 .re_interests p{
   margin: 150px 0px 0px 45px;
   top: 50%;
   width: 100%;
-  height: 100%;
   position: relative;
   visibility: hidden;
 }
