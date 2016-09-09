@@ -167,15 +167,6 @@
   width: 100%;
 }
 
-.re_shade{
-  visibility: hidden;
-}
-
-.re_shade:hover{
-  visibility: visible;
-  background-color: rgba(0,0,0,0.5);
-}
-
 .re_me{
   border: 1px solid #E0E0E0;
   display: inline-block;
@@ -325,4 +316,17 @@ html, body{
 
 .carousel-indicators{
   bottom: 0;
+}
+
+.t1{
+  visibility: hidden;
+
+}
+
+.t1:hover{
+  visibility: visible;
+}
+
+.t2{
+
 }
