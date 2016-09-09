@@ -169,6 +169,13 @@
   overflow: hidden;
 }
 
+.re_sf div:hover{
+  font-size: 14px;
+  font-family: 'Open Sans Condensed', Arial;
+  background-color; rgba(0,0,0,0.5);
+  width: 100%;
+}
+
 .re_sea{
   border: 1px solid #E0E0E0;
   display: inline-block;
