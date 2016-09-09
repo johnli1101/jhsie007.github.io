@@ -181,11 +181,12 @@
 
 .re_interests p{
   margin: 0;
-  padding: 150px 0px 0px 40px;
+  padding: 145px 0px 0px 0px;
   width: 100%;
   height: 170px;
   position: relative;
   visibility: hidden;
+  text-align: center;
 }
 
 .re_interests:hover p{
