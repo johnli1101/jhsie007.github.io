@@ -197,12 +197,17 @@
 
 .re_interests:hover{
   visibility: visible;
+}
+
+.re_interests:hover p{
+  visibility: visible;
   display: inline-block;
   font-size: 14px;
   font-family: 'Open Sans Condensed', Arial;
   background-color; rgba(0,0,0,0.5);
   width: 100%;
 }
+
 
 .re_sea{
   border: 1px solid #E0E0E0;
