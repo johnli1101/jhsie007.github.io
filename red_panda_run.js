@@ -3,9 +3,9 @@ var bamboos;
 var distance;
 
 function Red_Panda(){
-  redPanda = new component(25, 25, "red", 50, 200);
+  redPanda = new object(25, 25, "red", 50, 200);
   redPanda.gravity = 0.25;
-  distance = new component("17px", "Arial", "black", 300, 50, "text");
+  distance = new object("17px", "Arial", "black", 300, 50, "text");
   game.start();
 }
 
@@ -21,4 +21,16 @@ var game = {
   }
 }
 
-
+//Object Creation
+function object(width, height, color, x, y, type){
+  this.type = type;
+  this.score = 0;
+  this.width = width;
+  this.height = height;
+  this.speedX = 0;
+  this.speedY = 0;
+  this.x = x;
+  this.y = y;
+  this.gravity = 0;
+  this.gravitySpeed = 1;
+}
