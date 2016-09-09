@@ -18,7 +18,7 @@ var game = {
     document.body.insertBefore(this.canvas, document.body.childNodes[0]);
     this.frameNo = 0;
     this.interval = setInvertal(traveling, 10);
-  };
+  }
 }
 
 
