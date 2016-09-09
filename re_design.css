@@ -171,14 +171,16 @@
 }
 
 .re_location{
-  display: none;
+  visibility: hidden;
 }
 
 .re_sf location:hover{
+  visibility: visible;
   display: inline-block;
   font-size: 14px;
   font-family: 'Open Sans Condensed', Arial;
   background-color; rgba(0,0,0,0.5);
+  top: 75%;
   width: 100%;
 }
 
