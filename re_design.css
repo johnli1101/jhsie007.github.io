@@ -133,7 +133,8 @@
   margin: 2px 0px 0px 17px;
   width: 60%;
   height: 175px;
-  position: relative;
+  position: absolute;
+  top: 0;
 }
 
 .re_content{
