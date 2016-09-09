@@ -77,7 +77,6 @@
   padding: 4px;
   font-size: 14px;
   font-family: 'Open Sans Condensed', Arial;
-  white-space: nowrap;
 }
 
 .re_word span{
@@ -115,9 +114,8 @@
   font-size: 17px;
   font-family: 'Open Sans Condensed', Arial;
   font-weight: bold;
-  margin: 4px 0px 0px 17px;
+  margin: 4px 0px 10px 17px;
   padding: 4px;
-  top: 0;
 }
 
 .re_fragments{
