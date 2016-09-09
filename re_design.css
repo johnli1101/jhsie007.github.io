@@ -167,11 +167,11 @@
   margin: 2px 0px 0px 17px;
   position: relative;
   overflow: hidden;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 .re_interests p{
-  margin: 150px 0px 0px 50px;
+  margin: 150px 0px 0px 25px;
   top: 50%;
   position: relative;
   visibility: hidden;
@@ -213,7 +213,7 @@
   margin: 2px 0px 0px 17px;
   position: relative;
   overflow: hidden;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 .re_pasta{
