@@ -1,3 +1,11 @@
+.emilia{
+  border: 1px solid: #E0E0E0;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+}
 .snow{
   display: inline-block;
   border: 1px solid #E0E0E0;
