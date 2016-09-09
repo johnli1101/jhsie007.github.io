@@ -172,6 +172,7 @@
 
 .re_interests p{
   margin: 20px 0px 0px 0px;
+  top: 50%;
   position: relative;
   visibility: hidden;
 }
