@@ -121,6 +121,10 @@
   width: 1000px;
 }
 
+.re_frame{
+  width: 100%;
+}
+
 .re_container{
   display: inline-block;
   margin: 7px 0px 4px 17px;
