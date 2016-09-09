@@ -105,6 +105,10 @@
   height: 100%;
 }
 
+.re_word li a i{
+  margin: 0px 4px 0px 0px;
+}
+
 .re_profile{
   display: inline-block;
   width: 75%;
