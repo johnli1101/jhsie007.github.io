@@ -170,10 +170,11 @@
   color: #FFFFFF;
 }
 
-.re_sf div{
+.re_location{
+  display: none;
 }
 
-.re_sf div:hover{
+.re_sf location:hover{
   display: inline-block;
   font-size: 14px;
   font-family: 'Open Sans Condensed', Arial;
