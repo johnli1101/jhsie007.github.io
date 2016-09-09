@@ -170,11 +170,13 @@
   color: #FFFFFF;
 }
 
-.re_interests{
+.re_interests p{
+  position: relative;
+  left: 0;
   visibility: hidden;
 }
 
-.re_interests:hover{
+.re_interests:hover p{
   visibility: visible;
   display: inline-block;
   font-size: 14px;
