@@ -167,6 +167,11 @@
   margin: 2px 0px 0px 17px;
   position: relative;
   overflow: hidden;
+  color: #FFFFFF;
+}
+
+.re_sf div{
+  display: none;
 }
 
 .re_sf div:hover{
