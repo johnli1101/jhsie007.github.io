@@ -1,5 +1,8 @@
 .emilia{
   background-image: url("Moogle.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   border: 1px solid #E0E0E0;
   display: inline-block;
   width: 150px;
