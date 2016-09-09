@@ -173,6 +173,7 @@
 .re_interests p{
   position: relative;
   left: 0;
+  bottom: 0;
   visibility: hidden;
 }
 
