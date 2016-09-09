@@ -195,7 +195,7 @@
 }
 */
 
-.re_interests:hover p{
+.re_interests:hover{
   visibility: visible;
   display: inline-block;
   font-size: 14px;
