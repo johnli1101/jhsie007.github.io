@@ -31,7 +31,7 @@
   /*height: 100%;*/
   margin: 0;
   overflow: hidden;
-  position: absolute;
+  position: fixed;
 }
 
 .re_menu ul{
