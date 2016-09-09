@@ -183,6 +183,34 @@
   overflow: hidden;
 }
 
+.re_curry{
+  border: 1px solid #E0E0E0;
+  display: inline-block;
+  background-image: url("Curry.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 250px;
+  height: 175px;
+  margin: 2px 0px 0px 17px;
+  position: relative;
+  overflow: hidden;
+}
+
+.re_pasta{
+  border: 1px solid #E0E0E0;
+  display: inline-block;
+  background-image: url("Pasta.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 250px;
+  height: 175px;
+  margin: 2px 0px 0px 17px;
+  position: relative;
+  overflow: hidden;
+}
+
 .re_bot{
   border: 1px solid #E0E0E0;
   display: inline-block;
