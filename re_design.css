@@ -127,10 +127,10 @@
 
 .re_container{
   display: inline-block;
-  /*margin: 7px 0px 4px 17px;*/
-  top: 0;
+  margin: 2px 0px 0px 17px;
   width: 60%;
   height: 175px;
+  position: relative;
 }
 
 .re_content{
