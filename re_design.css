@@ -39,11 +39,11 @@
 .re_menu ul li:hover{
   background-color: #77AAE4;
   color: #FFFFFF;
-  text-color: #FFFFFF;
 }
 
 .re_menu ul li a{
   margin: 0px 0px 0px 20px;
+  width: 100%;
   padding: 4px;
   color: #111111;
   text-decoration: none;
@@ -83,11 +83,6 @@
   font-size: 16px;
   font-weight: 700;
   color: #0E0E0E;
-}
-
-.re_word li:hover{
-  background-color: #77AAE4;
-  color: #FFFFFF;
 }
 
 .re_word ul li{
