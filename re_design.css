@@ -32,7 +32,7 @@
 
 .re_menu ul li{
   display: block;
-  padding: 7px;
+  padding: 0;
   list-style: none;
 }
 
