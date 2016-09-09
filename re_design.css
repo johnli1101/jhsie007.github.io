@@ -92,7 +92,7 @@
 .re_profile{
   display: inline-block;
   width: 75%;
-  margin: 7px 0px 50px 17px;
+  margin: 7px 0px 17px 17px;
   padding: 4px;
   font-size: 14px;
   font-family: 'Open Sans Condensed', Arial;
@@ -103,7 +103,7 @@
   font-size: 20px;
   font-family: 'Open Sans Condensed', Arial;
   font-weight: bold;
-  width: 95%;
+  width: 97%;
   margin: 50px 0px 10px 17px;
   padding: 4px;
 }
