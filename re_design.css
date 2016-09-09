@@ -116,6 +116,7 @@
   font-family: 'Open Sans Condensed', Arial;
   font-weight: bold;
   padding: 4px;
+  white-space: nowrap;
 }
 
 .re_fragments{
@@ -124,8 +125,16 @@
 
 .re_container{
   display: inline-block;
-  width: 50%;
+  width: 75%;
   height: 175px;
+}
+
+.re_content{
+  display: inline-block;
+  font-size: 14px;
+  font-family: 'Open Sans Condensed', Arial;
+  padding
+
 }
 
 .re_initialize{
