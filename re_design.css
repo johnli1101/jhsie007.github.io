@@ -125,6 +125,7 @@
 .re_container{
   display: inline-block;
   width: 50%;
+  height: 175px;
 }
 
 .re_initialize{
