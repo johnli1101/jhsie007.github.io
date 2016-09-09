@@ -117,7 +117,7 @@
   font-weight: bold;
   margin: 4px 0px 0px 17px;
   padding: 4px;
-  white-space: pre-wrap;
+  top: 0;
 }
 
 .re_fragments{
@@ -135,8 +135,7 @@
   display: inline-block;
   font-size: 14px;
   font-family: 'Open Sans Condensed', Arial;
-  padding
-
+  padding: 4px;
 }
 
 .re_initialize{
