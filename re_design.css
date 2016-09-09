@@ -170,11 +170,11 @@
   color: #FFFFFF;
 }
 
-.re_location{
+.re_interests{
   visibility: hidden;
 }
 
-.re_sf location:hover{
+.re_interests:hover{
   visibility: visible;
   display: inline-block;
   font-size: 14px;
