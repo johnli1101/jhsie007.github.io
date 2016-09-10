@@ -412,6 +412,7 @@ canvas{
 .fates{
   display: inline-block;
   backface-visibility: hidden;
+  background-color: #FFFFFF;
   transform: translateZ(0);
   transition-duration: 0.4s;
   transition-property: color, background-color;
