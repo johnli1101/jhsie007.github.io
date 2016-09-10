@@ -409,7 +409,7 @@ canvas{
   position: absolute;
 }
 
-.fade{
+.fates{
   display: inline-block;
   overflow: hidden;
   backface-visibility: hidden;
@@ -422,6 +422,6 @@ canvas{
   -webkit-transition-property: color, background-color;
 }
 
-.fade:hover, .fade:focus, .fade:active{
+.fates:hover, .fates:focus, .fates:active{
   background-color: #77AAE4;
 }
