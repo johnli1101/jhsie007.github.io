@@ -411,7 +411,6 @@ canvas{
 
 .fates{
   display: inline-block;
-  overflow: hidden;
   backface-visibility: hidden;
   transform: translateZ(0);
   transition-duration: 0.5s;
