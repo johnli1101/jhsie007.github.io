@@ -38,8 +38,8 @@
 }
 
 .re_menu{
-  border-right: 1px solid #111111;
-  box-shadow: 1px 0px 0px #E0E0E0;
+  border-right: 1px solid #E0E0E0;
+  box-shadow: 1px 0px 0px #E7E7E7;
   display: block;
   width: 15%;
   /*height: 100%;*/
