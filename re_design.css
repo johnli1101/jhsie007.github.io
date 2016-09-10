@@ -335,6 +335,10 @@ html, body{
   padding: 0;
 }
 
+body{
+  overflow-x: hidden;
+}
+
 .ram{
   font-size: 12px;
   font-family: 'Open Sans Condensed', Arial;
