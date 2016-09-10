@@ -1,8 +1,8 @@
-$('a').click(function(){
-  $('html, body').animate({
-    scrollTop: $($(this).attr('href')).offset().top
-  }, 700);
+$(function(){
+  $('.autumn').click(function(){
+    var path = $(this).attr('href');
+    $('html, body').animate({scrollTop: $(path).offset().top}, 'slow');
+    return false;
+  });
 
-  return false;
 });
-
