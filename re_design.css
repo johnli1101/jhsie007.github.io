@@ -38,7 +38,7 @@
 }
 
 .re_menu{
-  border: 1px solid #111111;
+  border-right: 1px solid #111111;
   box-shadow: 1px 0px 0px #E0E0E0;
   display: block;
   width: 15%;
