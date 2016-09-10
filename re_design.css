@@ -59,11 +59,11 @@
 }
 
 .re_menu ul li:hover{
-  background-color: #77AAE4;
+  /*background-color: #77AAE4;*/
 }
 
 .re_menu ul li:hover a{
-  background-color: #77AAE4;
+  /*background-color: #77AAE4;*/
   color: #FFFFFF;
   width: 100%;
 }
