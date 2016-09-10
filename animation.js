@@ -1,9 +1,4 @@
-$('a[href^="#"]').on('click', function(event){
-  var path = $(this.getAttribute('href'));
-
-  if(path.length){
+$('a[href*=#]').on('click', function(event){
     event.preventDefault();
-
-    $('html, body').stop.animate({scrollTop: path.offset().top}, 750);
-  }
+    $('html,body').animate({scrollTop:$(this.hash).offset().top}, 500);
 });
