@@ -391,3 +391,11 @@ canvas{
   height: 150px;
   position: absolute;
 }
+
+#flame{
+  margin: 0;
+  padding: 0;
+  width: 250px;
+  height: 175px;
+  position: absolute;
+}
