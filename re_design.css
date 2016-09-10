@@ -408,3 +408,20 @@ canvas{
   height: 175px;
   position: absolute;
 }
+
+.fade{
+  display: inline-block;
+  overflow: hidden;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition-duration: 0.5s;
+  transition-property: color, background-color;
+  -webkit-backface-visibility: hidden;
+  -webkit-transform: translateZ(0);
+  -webkit-transition-duration: 0.5s;
+  -webkit-transition-property: color, background-color;
+}
+
+.fade:hover, .fade:focus, .fade:active{
+  background-color: #77AAE4;
+}
