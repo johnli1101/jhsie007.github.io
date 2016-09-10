@@ -1,4 +1,4 @@
-$('.autumn').on('click', function(event){
+$('a[href^="#"]').on('click', function(event){
   var path = $(this.getAttribute('href'));
 
   if(path.length){
