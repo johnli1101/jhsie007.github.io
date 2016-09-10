@@ -1,4 +1,8 @@
-$('a[href*=#]').on('click', function(event){
-  event.preventDefault();
-  $('html, body').animate({scrollTop: $(this.hash).offset().top}, 500);
+$('a').click(function(){
+  $('html, body').animate({
+    scrollTop: $($(this).attr('href')).offset().top
+  }, 700);
+
+  return false;
 });
+
