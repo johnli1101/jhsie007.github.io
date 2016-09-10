@@ -339,6 +339,10 @@
   margin: 0px 0px 0px -1px;
 }
 
+.icon_frame{
+  margin: 0px 0px 0px 2px;
+}
+
 html, body{
   margin: 0;
   padding: 0;
