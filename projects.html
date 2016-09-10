@@ -5,6 +5,8 @@
   <title>Hello Im Jeffrey</title>
   
   <!-- Script -->
+  <script type="text/javascript" src="jquery-3.1.0.js"></script>
+  <script type="text/javascript" src="animation.js"></script>
   <script type="text/javascript" src="red_panda_run.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js" integrity="sha384-THPy051/pYDQGanwU6poAc/hOdQxjnOEXzbT+OuUAFqNqFjL+4IGLBgCJC3ZOShY" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.2.0/js/tether.min.js" integrity="sha384-Plbmg8JY28KFelvJVai01l8WyZzrYWG825m+cZ0eDDS1f7d/js6ikvy1+X+guPIB" crossorigin="anonymous"></script>
@@ -27,21 +29,22 @@
   <!-- Name -->
   <div class="re_start">
     <header>
-      <h1>Let us start here. From zero.</h1>
+      <h1 id="ReZero">Let us start here. From zero.</h1>
     </header>
   </div>
 
   <!-- Menu -->
   <div class="re_menu clearfix">
     <div class="emilia">
+      <a href="#ReZero" class="autumn" id="frost"></a>
     </div>
     <ul>
       <div class="re_word left_margin font_weight">
-        <li><a href="#Projects">Projects</a></li>
-        <li><a href="#Adventures">Adventures</a></li>
-        <li><a href="#Introduction">Introduction</a></li>
-	<li><a href="#My Skills">My Skills</a></li>
-	<li><a href="#Stay In Touch">Stay In Touch</a></li>
+        <li><a href="#Projects" class="autumn">Projects</a></li>
+        <li><a href="#Adventures" class="autumn">Adventures</a></li>
+        <li><a href="#Introduction" class="autumn">Introduction</a></li>
+	<li><a href="#MySkills" class="autumn">My Skills</a></li>
+	<li><a href="#StayInTouch" class="autumn">Stay In Touch</a></li>
       </div>
 
       <div class="re_word top_margin">
@@ -55,6 +58,236 @@
   <!-- World -->
   <div class="re_world clearfix">
   <div class="re_rem">
+    <!-- Photos -->
+    <div id="from_zero" class="snow carousel slide" data-ride="carousel" data-interval="7000">
+      <ol class="carousel-indicators">
+        <li data-target="#from_zero" data-slide-to="0" class="active"></li>
+	<li data-target="#from_zero" data-slide-to="1"></li>
+	<li data-target="#from_zero" data-slide-to="2"></li>
+	<li data-target="#from_zero" data-slide-to="3"></li>
+	<li data-target="#from_zero" data-slide-to="4"></li>
+	<li data-target="#from_zero" data-slide-to="5"></li>
+      </ol>
+
+      <div class="carousel-inner" role="listbox">
+	
+	<!-- Anime 1 -->
+        <div class="carousel-item active">
+          <img src="Re_Zero.png">
+	  <div class="carousel-caption">
+	    <h4>Re: Zero</h4>
+	    <p>Re: Zero is a new anime and I really like it! The story's overall concept continues to surprise me since it precisely reflects on my flaws. </p>
+	  </div>
+	</div>
+	
+	<!-- Anime 2 -->
+	<!-- Game 1 -->
+	<div class="carousel-item">
+	  <img src="Black_Desert.png">
+	  <div class="carousel-caption">
+	    <h4>Black Desert Online</h4>
+	    <p>The graphics in Black Desert is astonishing; I admire the code that makes the characters in game realistic. This is one of the most beautiful game I've played, however, the game system contains bugs that I'd like to fix.</p>
+	  </div>
+	</div>
+
+	<!-- Game 2 -->
+	<div class="carousel-item">
+	  <img src="Guild_Wars_2.png">
+	  <div class="carousel-caption">
+	    <h4>Guild Wars 2</h4>
+	    <p>I love Guild Wars 2 for its lore and gameplay. The teamwork system and the jumping puzzles are well developed at glance. Sometimes, I would find myself enjoying the easter eggs (about CS) in the game.</p>
+	  </div>
+	</div>
+
+	<!-- Game 3 -->
+	<div class="carousel-item">
+	  <img src="Ashe.png">
+	  <div class="carousel-caption">
+	    <h4>League of Legends</h4>
+	    <p>League of Legends is MOBA game developed by RIOT Games. My favorite champions are Ashe, Sona, and Ahri, if you want to play you can find me!</p>
+	  </div>
+        </div>
+
+	<!-- Game 4 -->
+	<div class="carousel-item">
+	  <img src="Mabinogi.png">
+	  <div class="carousel-caption">
+	    <h4>Mabinogi</h4>
+	    <p>Growing up with video games, I started playing Mabinogi when I was at a young age. Mabinogi is a lighthearted game, and it inspired me to explore the codes behind it.</p>
+	  </div>
+	</div>
+
+	<!-- Game 5 -->
+	<div class="carousel-item">
+	  <img src="I_Am_Setsuna.png">
+	  <div class="carousel-caption">
+	    <h4>I Am Setsuna</h4>
+	    <p>I Am Setsuna is a role-playing game published by Square Enix. What I love about this game is the beauty of the concept art, as well as its traditional game development choices.</p>
+	  </div>
+	</div>
+	
+      </div>
+    </div>
+    
+
+    <!-- Projects -->
+    <div>
+      <div class="re_heading" id="Projects">
+        Projects
+      </div>
+
+      <div class="re_fragments">
+        <!-- First Project-->
+	<div class="re_frame">
+          <div class="re_bot">
+            <a href="projects.html" class="autumn" id="flame"></a>
+	  </div>
+
+	  <div class="re_container">
+	    <div href="projects.html" class ="re_title">
+	      Robotics: Micromouse
+	    </div>
+
+	    <div class="re_word">
+	      <p>Micromouse is a small robot programmed with searching algorithms, its objective is to solve any maze at some optimal speed.</p>
+	      <p>The mouse is constructed by a customized PCB, IR sensors/emitters, and DC motors. The design of the mouse plays a significant role in optimizing the physical performance of the robot.</p>
+	      <p>
+
+	      <i class="fa fa-star" aria-hidden="true"></i> University of California Micromouse Competition: 3rd Place Winner - $400 (2015-2016)
+	    </div>
+	  </div>
+	</div>
+	
+	<!-- Second Project -->
+	<div class="re_frame">
+	  <div class="re_heart" href="projects.html">
+            <a href="projects.html" class="autumn" id="flame"></a>
+	  </div>
+	  <div class="re_container">
+	    <div href="projects.html" class="re_title">
+	      UCR Research: Solar (Embedded Systems)
+	    </div>
+
+	    <div class="re_word">
+	      <p>Dr. Kawai Tam leads this research project at University of California, Riverside. It is an energy conservation system, a smart home design striving to improve the current houshold technology.</p> 
+
+	      <p>Creating an embedded system to distribute solar energy, I created the prototype of this project, which I named it Solar. The program contains High-Level State Machines that operates with temperature/humidity sensors, inline-fans, water heaters, and more.</p>
+
+              <i class="fa fa-star" aria-hidden="trye"></i> University of Calfornia, Riverside: EAP Team Award (2014-2016)
+	      </br>
+	      <i class="fa fa-envira" aria-hidden="true"></i> University of California, Riverside: Lead Computer Engineer (2015-Present)
+	    </div>
+	  </div>
+	</div>
+      </div>
+    </div>
+  
+    <!-- Adventures -->
+    <div>
+      <div class="re_heading" id="Adventures">
+        Adventures
+      </div>
+
+      <div class="re_fragments">
+        <div class="re_sf">
+	  <div class="re_interests">
+	    <div>
+	      <p>San Francisco - State University</p>
+	    </div>
+	  </div>
+	</div>
+
+	<div class="re_sea">
+	  <div class="re_interests">
+	    <div>
+              <p>Corona del Mar - Newport Beach</p>
+	    </div>
+	  </div>
+	</div>
+
+	<div class="re_curry">
+	  <div class="re_interests">
+	    <div>
+	      <p>Home - Homemade Curry Rice</p>
+	    </div>
+	  </div>
+	</div>
+
+	<div class="re_pasta">
+	  <div class="re_interests">
+	    <div>
+	      <p>Home - Homemade Alfredo Pasta</p>
+	    </div>
+	  </div>
+	</div>
+
+      </div>
+    </div>
+    <!-- Introduction -->
+    <div>
+      <div class="re_heading" id="Introduction">
+        Introduction
+      </div>
+
+      <div class="re_initialize">
+        <div class="re_me">
+	</div>
+        <div class="re_profile">
+          Hi ~ I am Jeffrey and I study Computer Science! I think red pandas are cute and so are you!
+	  <br>
+	  I..its not like I want you to visit or anything! But thank you!
+	</div>
+	
+	<!-- Game -->
+	<div id="Game Start" class="">
+	</div>
+
+
+      </div>
+    </div>
+      
+    <!-- My Skills -->
+    <div>
+      <div class="re_heading" id="MySkills">
+        My Skills
+      </div>
+      
+      <div class="re_frame">
+        <div class="re_word">
+	  <br>
+          <span>Language:</span> English, Mandarin, Taiwanese
+          <br>
+          <span>Programming Languages:</span> C++, C, Python, Assembly, Bash
+          <br>
+          <span>Hardware Development:</span> Arduino, mbed, Atmel, Teensy, Xilinx, Soldering Techniques
+          <br>
+          <span>Web Development:</span> HTML, CSS, Javascript/jQuery
+          <br>
+          <span>Designing:</span> PaintTool SAI
+          <br>
+        </div>
+      </div>
+    </div>
+
+    <!-- Stay In Touch -->
+    <div>
+      <div class="re_heading" id="StayInTouch">
+        Stay In Touch
+      </div>
+
+      <div class="re_frame">
+        <div class="re_word">
+	  <i class="fa fa-facebook" aria-hidden="true"></i>
+	  <span>Facebook</span>
+	  </br>
+	  <i class="fa fa-instagram" aria-hidden="true"></i>
+	  <span>Instagram</span>
+	  </br>
+	  <i class="fa fa-envelope-o" aria-hidden="true"></i>
+	  <span>Email:</span> jhsie007@ucr.edu
+	</div>
+      </div>
+    </div>
   <!-- End -->
   </div>
   </div>
