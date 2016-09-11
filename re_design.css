@@ -462,3 +462,16 @@ canvas{
   width: 225px;
   height: 175px;
 }
+
+.card-title{
+  font-family: 'Open Sans', 'Open Sans Condensed', Arial;
+  font-size: 17px;
+}
+
+.card-subtitle{
+  font-family: 'Open Sans', 'Open Sans Condensed', Arial;
+  font-size: 14px;
+}
+
+
+
