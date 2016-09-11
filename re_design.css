@@ -144,6 +144,7 @@
   top: 0;
   font-size: 12px;
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
+  position: relative;
 }
 
 .re_heading{
