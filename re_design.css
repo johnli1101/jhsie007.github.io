@@ -419,7 +419,7 @@ canvas{
   position: absolute;
 }
 
-.fates, .fates_g, .fates_i, .fates_f{
+.fates, .fates_i, .fates_f{
   display: inline-block;
   backface-visibility: hidden;
   background-color: #FFFFFF;
@@ -435,6 +435,19 @@ canvas{
 .fates:hover, .fates:focus, .fates:active{
   background-color: #77AAE4;
   color: #FFFFFF;
+}
+
+.fates_g{
+  display: inline-block;
+  backface-visibility: hidden;
+  background-color: #FFFFFF;
+  transform: translateZ(0);
+  transition-duration: 0.5s;
+  transition-property: color, background-color;
+  -webkit-backface-visibility: hidden;
+  -webkit-transform: translateZ(0);
+  -webkit-transition-duration: 0.5s;
+  -webkit-transition-property: color, background-color;
 }
 
 .fates_g:hover, .fates_g:focus, .fates_g:active{
