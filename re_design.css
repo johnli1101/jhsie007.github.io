@@ -461,6 +461,13 @@ canvas{
 .card-img-top{
   width: 225px;
   height: 175px;
+  background-image: url("San_Francisco.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 225px;
+  height: 175px;
+
 }
 
 .card-title{
