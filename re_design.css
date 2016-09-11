@@ -115,6 +115,11 @@
   color: #0E0E0E;
 }
 
+.re_word i{
+  width: 12px;
+  height: 12px;
+}
+
 .re_word ul li{
   text-decoration: none;
 }
