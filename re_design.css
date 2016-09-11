@@ -455,6 +455,7 @@ canvas{
 
 .card{
   margin: 2px 0px 0px 17px;
+  width: 225px;
 }
 
 .card-img-top{
