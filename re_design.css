@@ -138,13 +138,13 @@
 
 .re_profile{
   display: inline-block;
-  width: 75%;
+  width: 70%;
   margin: 7px 0px 17px 17px;
   padding: 4px;
   top: 0;
   font-size: 12px;
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
-  position: absolute;
+  position: relative;
 }
 
 .re_heading{
