@@ -453,6 +453,10 @@ canvas{
   color: #FFFFFF;
 }
 
+.card{
+  margin: 2px 0px 0px 17px;
+}
+
 .card-img-top{
   width: 225px;
   height: 175px;
