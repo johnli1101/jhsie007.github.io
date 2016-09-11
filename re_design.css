@@ -453,3 +453,7 @@ canvas{
   color: #FFFFFF;
 }
 
+.card{
+  width: 225px;
+  height: 175px;
+}
