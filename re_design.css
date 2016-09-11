@@ -62,6 +62,7 @@
 
 .re_menu ul li:hover{
   background-color: #77AAE4;
+  list-style: none;
 }
 
 .re_menu ul li:hover a{
