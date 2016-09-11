@@ -163,8 +163,8 @@
   font-size: 15px;
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
   font-weight: bold;
-  margin: 4px 0px 10px 17px;
-  padding: 4px;
+  margin: 0px 0px 10px 17px;
+  padding: 0px 4px 4px 4px;
 }
 
 .re_fragments{
