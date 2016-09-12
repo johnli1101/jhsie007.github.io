@@ -456,11 +456,12 @@ canvas{
 .card{
   margin: 2px 0px 0px 17px;
   width: 475px;
+  height: 350px;
 }
 
 .card-img-top{
   width: 450px;
-  height: 275px;
+  height: 300px;
 }
 
 .card-title{
