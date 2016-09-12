@@ -185,6 +185,14 @@
   height: 250px;
 }
 
+.re_frame_art{
+  display: flex;
+  padding 0;
+  width:100%;
+  height: 350px;
+
+}
+
 .re_container{
   display: inline-block;
   margin: 2px 0px 0px 17px;
