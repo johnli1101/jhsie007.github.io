@@ -453,14 +453,9 @@ canvas{
   color: #FFFFFF;
 }
 
-.re_card{
-  width: 450px;
-  height: 250px;
-}
-
 .card{
   margin: 2px 0px 0px 17px;
-  width: 451px;
+  width: 500px;
 }
 
 .card-img-top{
