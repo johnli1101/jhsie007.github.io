@@ -490,6 +490,13 @@ canvas{
 
 }
 
-@media(min-width: @screen-md-min{}
+@media(min-width: @screen-md-min{
+ .snow{
+    width: 400px;
+  }
+
+
+
+}
 
 
