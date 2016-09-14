@@ -35,6 +35,7 @@
   white-space: nowrap;
   height: 10%;
   margin: 2px 0px 2px 17px;
+  position: fixed;
   z-index: 1;
 }
 
