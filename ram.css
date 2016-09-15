@@ -10,8 +10,7 @@
   }
 
   .carousel-inner{
-    height: 245px;
-
+    height: 250px;
   }
 
   .carousel-caption{
@@ -28,7 +27,7 @@
   }
 
   .carousel-indicators{
-    height: 12px;
+    height: 8px;
   }
 
 }
