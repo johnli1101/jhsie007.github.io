@@ -11,7 +11,7 @@
 
 }
 
-@media(min-width: 768px) and (max-width:1024){
+@media(min-width: 768px) and (max-width:1366){
   .re_start{
     color: #F55F5F;
 
@@ -23,7 +23,7 @@
   }
 }
 
-@media(min-width: 1024px){
+@media(min-width: 1366px){
 
   .re_start{
     color: #FFFFFF;
