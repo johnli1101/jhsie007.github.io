@@ -20,6 +20,14 @@
 
   }
 
+  .carousel-caption h4{
+    font-size: 14px;
+  }
+
+  .carousel-caption p{
+    font-size: 10px;
+  }
+
 }
 
 @media(min-width: 768px) and (max-width:1366){
