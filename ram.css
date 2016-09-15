@@ -1,12 +1,16 @@
 
 @media(min-width: 768px){
-  .re_start{
-    color: #FFFFFF;
+  .snow{
+    width: 450px;
   }
+
+
 }
 
 @media(min-width: 1366px){
-  .re_start{
-    color: #F0F0F0;
+  .snow{
+    width: 650px;
+
+
   }
 }
