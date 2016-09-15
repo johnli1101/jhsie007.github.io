@@ -1,5 +1,5 @@
 
-@media(max-width: 500px){
+@media(min-width: 500px){
 
   .re_start{
     color: #F55F5F;
@@ -11,8 +11,7 @@
 
 }
 
-@media(max-width: 1366px){
-
+@media(min-width: 1024px){
   .re_start{
     color: #F55F5F;
 
@@ -24,7 +23,7 @@
   }
 }
 
-@media(max-width: 3340px){
+@media(min-width: 3340px){
 
   .re_start{
     color: #FFFFFF;
