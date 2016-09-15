@@ -29,6 +29,10 @@
     font-size: 14px;
   }
 
+  .re_menu{
+    visibility: hidden;
+  }
+
 }
 
 @media(min-width: 768px) and (max-width:1366){
