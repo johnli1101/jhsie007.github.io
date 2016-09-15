@@ -1,5 +1,5 @@
 
-@media(min-width: 768px){
+@media(max-width: 768px){
   .snow{
     width: 450px;
   }
@@ -7,7 +7,7 @@
 
 }
 
-@media(min-width: 1366px){
+@media(max-width: 1366px){
   .snow{
     width: 650px;
 
