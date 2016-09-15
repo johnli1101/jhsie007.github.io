@@ -1,5 +1,9 @@
 
-@media(max-width: 768px){
+@media(min-width: 768px){
+
+  .re_start{
+    color: #F55F5F;
+  }
   .snow{
     width: 450px;
   }
@@ -7,7 +11,12 @@
 
 }
 
-@media(max-width: 1366px){
+@media(min-width: 1366px){
+
+  .re_start{
+    color: #000000;
+
+  }
   .snow{
     width: 650px;
 
