@@ -23,3 +23,16 @@
 
   }
 }
+
+@media(max-width: 3340px){
+
+  .re_start{
+    color: #FFFFFF;
+  }
+  .snow{
+    width: 1000px;
+  }
+
+
+}
+
