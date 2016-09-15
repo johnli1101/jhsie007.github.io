@@ -10,7 +10,7 @@
   }
 
   .carousel-inner{
-    height: 250px;
+    height: 225px;
 
   }
 
@@ -34,8 +34,13 @@
   .re_start{
     color: #FFFFFF;
   }
+
   .snow{
     width: 1080px;
+    height: 550px;
+  }
+
+  .carousel-inner{
     height: 550px;
   }
 
