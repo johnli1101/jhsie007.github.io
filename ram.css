@@ -2,7 +2,6 @@
 @media(max-width: 768px){
 
   .re_start{
-    color: #F55F5F;
   }
   
   .snow{
@@ -21,18 +20,21 @@
   }
 
   .carousel-caption h4{
-    font-size: 14px;
+    font-size: 16px;
   }
 
   .carousel-caption p{
-    font-size: 10px;
+    font-size: 12px;
+  }
+
+  .carousel-indicators{
+    margin-top: 20px;
   }
 
 }
 
 @media(min-width: 768px) and (max-width:1366){
   .re_start{
-    color: #F55F5F;
 
   }
   .snow{
@@ -45,7 +47,6 @@
 @media(min-width: 1366px){
 
   .re_start{
-    color: #FFFFFF;
   }
 
   .snow{
