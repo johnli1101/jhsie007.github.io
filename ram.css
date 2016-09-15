@@ -4,6 +4,7 @@
   .re_start{
     color: #F55F5F;
   }
+  
   .snow{
     width: 450px;
     height: 250px;
@@ -14,6 +15,10 @@
 
   }
 
+  .carousel-caption{
+    height: 100px;
+
+  }
 
 }
 
