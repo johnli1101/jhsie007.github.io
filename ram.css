@@ -1,5 +1,5 @@
 
-@media(min-width: 768px){
+@media(max-width: 500px){
 
   .re_start{
     color: #F55F5F;
@@ -11,10 +11,10 @@
 
 }
 
-@media(min-width: 1366px){
+@media(max-width: 1366px){
 
   .re_start{
-    color: #000000;
+    color: #F55F5F;
 
   }
   .snow{
