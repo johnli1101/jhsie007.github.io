@@ -508,21 +508,6 @@ canvas{
   font-size: 14px;
 }
 
-@media(min-width: @screen-sm-min{
-  .snow{
-    width: 400px;
-  }
-
-
+.touch_height{
+  height: 100px;
 }
-
-@media(min-width: @screen-md-min{
- .snow{
-    width: 400px;
-  }
-
-
-
-}
-
-
