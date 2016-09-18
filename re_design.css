@@ -110,6 +110,12 @@
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
 }
 
+.re_word span{
+  font-size: 14px;
+  font-weight: 700;
+  color: #0E0E0E;
+}
+
 .re_word span a{
   font-size: 14px;
   font-weight: 700;
