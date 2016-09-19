@@ -534,12 +534,14 @@ canvas{
   border: 2px solid #E0E0E0;
   width: 150px;
   height: 25px;
+  margin: 0px 0px 0px 4px;
   padding: 1px;
   text-align: center;
 }
 
 .re_message a{
   color: #000000;
+  font-size: 12px;
   font-weight: 700;
 }
 
