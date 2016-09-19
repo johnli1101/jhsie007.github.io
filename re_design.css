@@ -380,6 +380,10 @@
   margin: 0px 0px 0px -1px;
 }
 
+.right_margin{
+  margin: 0px 2px 0px 0px;
+}
+
 .icon_frame{
   margin: 0px 0px 0px 2px;
 }
