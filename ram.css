@@ -66,6 +66,10 @@
   .re_world{
   }
 
+  .re_fragments{
+    width: 2000px;
+  }
+
   .re_rem{
     width: 90%;
   }
