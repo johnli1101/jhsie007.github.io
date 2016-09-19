@@ -456,6 +456,14 @@ canvas{
   position: absolute;
 }
 
+#wind{
+  margin: 0;
+  padding: 0;
+  width: 300px;
+  height: 275px;
+  position: absolute;
+}
+
 .fates, .fates_g, .fates_i, .fates_f{
   display: inline-block;
   backface-visibility: hidden;
