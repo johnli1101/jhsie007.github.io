@@ -554,6 +554,10 @@ canvas{
   padding: 1px;
 }
 
+.re_resume a{
+  color: #000000;
+}
+
 #resume{
   width: 150px;
 }
