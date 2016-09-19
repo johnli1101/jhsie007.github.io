@@ -33,16 +33,18 @@
     visibility: hidden;
   }
 
+  .re_fragments{
+    width: 900px;
+
+  }
+
 }
 
 @media(min-width: 768px) and (max-width:1366){
-  .re_start{
-
-  }
-
   .snow{
     width: 650px;
   }
+
 }
 
 @media(min-width: 1440px){
