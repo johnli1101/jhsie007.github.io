@@ -532,7 +532,8 @@ canvas{
 
 .re_message{
   border: 2px solid #E0E0E0;
-  color: #FFFFFF;
+  font-weight: 700;
+  color: #000000;
   width: 75px;
   height: 25px;
   padding: 2px;
