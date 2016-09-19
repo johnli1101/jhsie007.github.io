@@ -405,7 +405,7 @@ body{
 }
 
 .ram a{
-  top: 20px;
+  padding: 20px 0px 0px 0px;
 }
 
 .carousel-item{
