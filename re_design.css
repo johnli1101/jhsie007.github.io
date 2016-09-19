@@ -86,7 +86,7 @@
 .re_world{
   background-color: #F7F7F7;
   display: block;
-  width: auto;
+  width: 100%;
   margin-left: 17%;
   margin-right: 0%;
   padding: 2px;
