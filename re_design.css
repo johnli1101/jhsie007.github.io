@@ -530,7 +530,8 @@ canvas{
   border: 1px solid #E0E0E0;
   background-color: #77AAE4;
   color: #FFFFFF;
-  height: 20px;
+  height: 50px;
+  padding: 2px;
 }
 
 .re_message a{
