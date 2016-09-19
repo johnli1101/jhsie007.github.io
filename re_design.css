@@ -381,7 +381,7 @@
 }
 
 .right_margin{
-  margin: 0px 2px 0px 0px;
+  margin: 0px 4px 0px 0px;
 }
 
 .icon_frame{
@@ -543,4 +543,9 @@ canvas{
 
 .re_message a{
   font-size: 12px;
+}
+
+.square{
+  width: 12px;
+  height: 12px;
 }
