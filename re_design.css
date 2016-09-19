@@ -523,14 +523,15 @@ canvas{
 }
 
 .touch_width{
-  width: 95%;
+  width: 93%;
 }
 
 .re_message{
   border: 1px solid #E0E0E0;
   background-color: #77AAE4;
   color: #FFFFFF;
-  height: 50px;
+  width: 50px;
+  height: 25px;
   padding: 2px;
 }
 
