@@ -397,9 +397,11 @@ body{
   font-size: 12px;
   font-family: 'Open Sans Condensed', Arial;
   color: #000000;
+  background-color: #F0F0F0;
   white-space: nowrap;
-  height: 25%;
+  height: 200px;
   margin: 2px 0px 2px 17px;
+  text-align: center;
 }
 
 .carousel-item{
