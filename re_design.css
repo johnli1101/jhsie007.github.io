@@ -523,7 +523,7 @@ canvas{
 }
 
 .touch_width{
-  width: 93%;
+  width: 90%;
 }
 
 .re_message{
@@ -537,4 +537,5 @@ canvas{
 
 .re_message a{
   font-size: 12px;
+  text-align: center;
 }
