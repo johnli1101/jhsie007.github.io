@@ -533,9 +533,9 @@ canvas{
   width: 75px;
   height: 25px;
   padding: 2px;
+  text-align: center;
 }
 
 .re_message a{
   font-size: 12px;
-  text-align: center;
 }
