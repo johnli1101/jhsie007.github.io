@@ -531,8 +531,7 @@ canvas{
 }
 
 .re_message{
-  border: 1px solid #E0E0E0;
-  background-color: #77AAE4;
+  border: 2px solid #E0E0E0;
   color: #FFFFFF;
   width: 75px;
   height: 25px;
