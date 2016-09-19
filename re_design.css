@@ -404,6 +404,11 @@ body{
   text-align: center;
 }
 
+.ram div{
+  margin: 20px 0px 0px 0px;
+
+}
+
 .carousel-item{
   width: 100%;
   height: 350px;
