@@ -545,6 +545,10 @@ canvas{
   font-size: 12px;
 }
 
+.re_resume{
+  border: 1px solid #E0E0E0;
+}
+
 .square{
   width: 12px;
   height: 12px;
