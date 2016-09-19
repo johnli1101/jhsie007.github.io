@@ -542,6 +542,10 @@ canvas{
   height: 150px;
 }
 
+.touch_height_add{
+  height: 200px;
+}
+
 .touch_width{
   width: 90%;
 }
