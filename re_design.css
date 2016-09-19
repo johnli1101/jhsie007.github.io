@@ -399,13 +399,9 @@ body{
   color: #000000;
   background-color: #F7F7F7;
   white-space: nowrap;
-  height: 100px;
+  height: 75px;
   margin: 0px 0px 2px 17px;
   text-align: center;
-}
-
-.ram a{
-  padding: 20px 0px 0px 0px;
 }
 
 .carousel-item{
