@@ -334,6 +334,22 @@
   color: #FFFFFF;
 }
 
+.re_irvine{
+  border: 1px solid #E0E0E0;
+  display: inline-block;
+  background-image: url("Irvine.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 225px;
+  height: 175px;
+  margin: 2px 0px 0px 17px;
+  position: relative;
+  overflow: hidden;
+  color: #FFFFFF;
+}
+
+
 .re_bot{
   border: 1px solid #E0E0E0;
   display: inline-block;
