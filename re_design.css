@@ -579,6 +579,10 @@ canvas{
   margin: 0px 4px 0px 4px;
 }
 
+.re_art{
+  height: 40px;
+}
+
 #resume{
   width: 150px;
 }
