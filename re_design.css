@@ -646,6 +646,7 @@ canvas{
 }
 
 .re_adv{
+  border: 1px solid #0E0E0E;
   width: 125px;
   margin: 25px 45px 0px 0px;
   padding: 1px;
@@ -673,19 +674,25 @@ canvas{
   color: #FFFFFF;
 }
 
+.re_adv i{
+  width: 12px;
+  height: 12px;
+  margin: 0px 0px 0px 2px;
+}
+
 .springs{
   display: inline-block;
   vertical-align: middle;
   -webkit-transform: translateZ(0);
   -webkit-backface-visibility: hidden;
   -webkit-transition-property: color;
-  -webkit-transition-duration: 0.5s;
+  -webkit-transition-duration: 0.3s;
   -moz-osx-font-smoothing: grayscale;
   transform: translateZ(0);
   backface-visibility: hidden;
   position: relative;
   transition-property: color;
-  transition-duration: 0.5s;
+  transition-duration: 0.3s;
 }
 
 .springs:before{
@@ -702,12 +709,12 @@ canvas{
   -webkit-transform: scaleX(0);
   -webkit-transform-origin: 0 50%;
   -webkit-transition-property: transform;
-  -webkit-transition-duration: 0.5s;
+  -webkit-transition-duration: 0.3s;
   -webkit-transition-timing-function: ease-out;
   transform: scaleX(0);
   transform-origin: 0 50%;
   transition-property: transform;
-  transition-duration: 0.5s;
+  transition-duration: 0.3s;
   transition-timing-function: ease-out;
 }
 
@@ -720,6 +727,38 @@ canvas{
   -webkit-transition-timing-function: cubic-bezier(0.50, 1.65, 0.40, 0.70);
   transform: scaleX(1);
   transition-timing-function: cubic-bezier(0.50, 1.65, 0.40, 0.70);
+}
+
+.shift{
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+  -webkit-transition-duration: 0.1s;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+  transition-duration: 0.1s;
+  padding-right: 2.0em;
+  position: relative;
+}
+
+.shift:before{
+  position: absolute;
+  right: 1em;
+  padding: 0 1px;
+  -webkit-transform: translateZ(0);
+  -webkit-transition-duration: 0.1s;
+  -webkit-transition-property: transform;
+  -webkit-transition-timing-function: ease-out;
+  transform: translateZ(0);
+  transition-duration: 0.1s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+}
+
+.shift:hover:before, .shift:focus:before, .shift:active:before{
+  -webkit-transform: translateX(4px);
+  transform: translateX(4px);
 }
 
 .align_r{
