@@ -646,12 +646,16 @@ canvas{
 }
 
 .re_adv{
-  border: 1px solid #E0E0E0;
+  border: 1px solid #0E0E0E;
   width: 150px;
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
   font-size: 15px;
   text-align: center;
   color: #0E0E0E;
+}
+
+.re_adv:hover{
+  color: #FFFFFF;
 }
 
 .re_adv a{
@@ -701,7 +705,7 @@ canvas{
 }
 
 .springs:hover, .springs:focus, .springs:active{
-  color: white;
+  color: #FFFFFF;
 }
 
 .springs:hover:before, .springs:focus:before, .springs:active:before{
