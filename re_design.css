@@ -648,23 +648,30 @@ canvas{
 .re_adv{
   border: 1px solid #E0E0E0;
   width: 150px;
-  right: 0;
-  float: right;
+
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
   font-size: 15px;
-  text-align: center;
+  text-align: right;
   color: #0E0E0E;
 }
 
 .re_adv a{
+  text-decoration: none;
+  text-align: center;
+}
+
+.re_adv a:hover{
+  color: #FFFFFF;
 }
 
 .springs{
   display: inline-block;
+  vertical-align: middle;
   -webkit-transform: translateZ(0);
   -webkit-backface-visibility: hidden;
   -webkit-transition-property: color;
   -webkit-transition-duration: 0.5s;
+  -moz-osx-font-smoothing: grayscale;
   transform: translateZ(0);
   backface-visibility: hidden;
   position: relative;
@@ -680,7 +687,7 @@ canvas{
   left: 0;
   bottom: 0;
   right: 0;
-  background-color: #FFFFFF;
+  background-color: #2098d1;
 
   -webkit-transform: scaleX(0);
   -webkit-transform-origin: 0 50%;
@@ -696,5 +703,4 @@ canvas{
 
 .springs:hover, .springs:focus, .springs:active{
   color: white;
-  background-color: #77AAE4;
 }
