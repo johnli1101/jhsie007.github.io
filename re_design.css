@@ -670,6 +670,7 @@ canvas{
 
 .re_adv a{
   text-decoration: none;
+  vertical-align: top;
   color: #0E0E0E;
   width: 100%;
   height: 100%;
@@ -737,9 +738,4 @@ canvas{
 
 .align_r{
   text-align: right;
-}
-
-.move_top{
-  top: 0;
-  position: absolute;
 }
