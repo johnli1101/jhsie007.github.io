@@ -674,7 +674,7 @@ canvas{
   color: #FFFFFF;
 }
 
-.re_adv:hover i{
+.re_adv i{
   display: inline-block;
   vertical-align: middle;
   -webkit-transform: translateZ(0);
