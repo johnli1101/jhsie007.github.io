@@ -412,7 +412,7 @@
   border: 1px solid #E0E0E0;
   display: inline-block;
   background-image: url(images/Putty.png);
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   width: 250px;
@@ -420,7 +420,6 @@
   margin: 2px 0px 0px 17px;
   position: relative;
   overflow: hidden;
-  zoom: 150%;
 }
 
 .clearfix:before,
