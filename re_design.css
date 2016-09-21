@@ -685,10 +685,10 @@ canvas{
 }
 
 .re_adv:hover i:before{
-  -webkit-transition-duration: 0.2s;
+  -webkit-transition-duration: 0.1s;
   -webkit-transition-property: transform;
   -webkit-transition-timing-function: ease-out;
-  transition-duration: 0.2s;
+  transition-duration: 0.1s;
   transition-property: transform;
   transition-timing-function: ease-out;
 }
@@ -699,13 +699,13 @@ canvas{
   -webkit-transform: translateZ(0);
   -webkit-backface-visibility: hidden;
   -webkit-transition-property: color;
-  -webkit-transition-duration: 0.3s;
+  -webkit-transition-duration: 0.4s;
   -moz-osx-font-smoothing: grayscale;
   transform: translateZ(0);
   backface-visibility: hidden;
   position: relative;
   transition-property: color;
-  transition-duration: 0.3s;
+  transition-duration: 0.4s;
 }
 
 .springs:before{
@@ -722,12 +722,12 @@ canvas{
   -webkit-transform: scaleX(0);
   -webkit-transform-origin: 0 50%;
   -webkit-transition-property: transform;
-  -webkit-transition-duration: 0.3s;
+  -webkit-transition-duration: 0.4s;
   -webkit-transition-timing-function: ease-out;
   transform: scaleX(0);
   transform-origin: 0 50%;
   transition-property: transform;
-  transition-duration: 0.3s;
+  transition-duration: 0.4s;
   transition-timing-function: ease-out;
 }
 
