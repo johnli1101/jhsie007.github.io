@@ -171,6 +171,10 @@
   padding: 4px;
 }
 
+.re_heading a{
+  color: #000000;
+}
+
 .re_title{
   display: inline-block;
   font-size: 15px;
