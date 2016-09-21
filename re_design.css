@@ -648,10 +648,15 @@ canvas{
 .re_adv{
   width: 150px;
   margin: 25px 45px 0px 0px;
+  padding: 1px;
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
   font-size: 15px;
   font-weight: 600;
   text-align: center;
+}
+
+.re_adv:hover{
+  text-color: #FFFFFF;
 }
 
 .re_adv:hover{
