@@ -662,6 +662,7 @@ canvas{
 
 .re_adv:hover a{
   color: #FFFFFF;
+  width: 100%;
 }
 
 .re_adv a{
