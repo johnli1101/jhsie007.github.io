@@ -646,7 +646,6 @@ canvas{
 }
 
 .re_adv{
-  border: 1px solid #0E0E0E;
   width: 125px;
   margin: 25px 45px 0px 0px;
   padding: 1px;
@@ -677,7 +676,7 @@ canvas{
 .re_adv i{
   width: 11px;
   height: 11px;
-  margin: 0px 0px 0px 1px;
+  margin: 0px 0px 0px 4px;
 }
 
 .re_adv:hover i{
