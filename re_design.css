@@ -647,6 +647,7 @@ canvas{
 
 .re_adv{
   border: 1px solid #E0E0E0;
+  width: 100px;
 }
 .re_adv a{
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
@@ -655,6 +656,7 @@ canvas{
 }
 
 .springs{
+  display: inline-block;
   -webkit-transform: translateZ(0);
   -webkit-backface-visibility: hidden;
   -webkit-transition-property: color;
