@@ -1,5 +1,5 @@
 .emilia{
-  background-image: url("Moogle.png");
+  background-image: url("images/Moogle.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -248,7 +248,7 @@
 .re_me{
   border: 1px solid #E0E0E0;
   display: inline-block;
-  background-image: url("re_me.png");
+  background-image: url("images/re_me.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -262,7 +262,7 @@
 .re_sf{
   border: 1px solid #E0E0E0;
   display: inline-block;
-  background-image: url("San_Francisco.png");
+  background-image: url("images/San_Francisco.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -277,7 +277,7 @@
 .re_sea{
   border: 1px solid #E0E0E0;
   display: inline-block;
-  background-image: url("Sea.png");
+  background-image: url("images/Sea.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -292,7 +292,7 @@
 .re_autumn{
   border: 1px solid #E0E0E0;
   display: inline-block;
-  background-image: url("Autumn.png");
+  background-image: url("images/Autumn.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -307,7 +307,7 @@
 .re_curry{
   border: 1px solid #E0E0E0;
   display: inline-block;
-  background-image: url("Curry.png");
+  background-image: url("images/Curry.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -322,7 +322,7 @@
 .re_pasta{
   border: 1px solid #E0E0E0;
   display: inline-block;
-  background-image: url("Pasta.png");
+  background-image: url("images/Pasta.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -337,7 +337,7 @@
 .re_irvine{
   border: 1px solid #E0E0E0;
   display: inline-block;
-  background-image: url("Irvine.png");
+  background-image: url("images/Irvine.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -353,7 +353,7 @@
 .re_bot{
   border: 1px solid #E0E0E0;
   display: inline-block;
-  background-image: url(Bot.png);
+  background-image: url(images/Bot.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -367,7 +367,7 @@
 .re_heart{
   border: 1px solid #E0E0E0;
   display: inline-block;
-  background-image: url(Heart.png);
+  background-image: url(images/Heart.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
