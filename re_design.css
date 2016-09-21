@@ -678,6 +678,33 @@ canvas{
   width: 12px;
   height: 12px;
   margin: 0px 0px 0px 1px;
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+  -webkit-transition-duration: 0.1s;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+  transition-duration: 0.1s;
+  position: relative;
+}
+
+.re_adv i:before{
+  position: absolute;
+  right: 1em;
+  -webkit-transform: translateZ(0);
+  -webkit-transition-duration: 0.1s;
+  -webkit-transition-property: transform;
+  -webkit-transition-timing-function: ease-out;
+  transform: translateZ(0);
+  transition-duration: 0.1s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+}
+
+.re_adv i:hover:before, .re_adv i:focus:before, .re_adv i:active:before{
+  -webkit-transform: translateX(4px);
+  transform: translateX(4px);
 }
 
 .springs{
@@ -729,35 +756,6 @@ canvas{
   transition-timing-function: cubic-bezier(0.50, 1.65, 0.40, 0.70);
 }
 
-.shift{
-  display: inline-block;
-  vertical-align: middle;
-  -webkit-transform: translateZ(0);
-  -webkit-backface-visibility: hidden;
-  -webkit-transition-duration: 0.1s;
-  transform: translateZ(0);
-  backface-visibility: hidden;
-  transition-duration: 0.1s;
-  position: relative;
-}
-
-.shift:before{
-  position: absolute;
-  right: 1em;
-  -webkit-transform: translateZ(0);
-  -webkit-transition-duration: 0.1s;
-  -webkit-transition-property: transform;
-  -webkit-transition-timing-function: ease-out;
-  transform: translateZ(0);
-  transition-duration: 0.1s;
-  transition-property: transform;
-  transition-timing-function: ease-out;
-}
-
-.shift:hover:before, .shift:focus:before, .shift:active:before{
-  -webkit-transform: translateX(4px);
-  transform: translateX(4px);
-}
 
 .align_r{
   text-align: right;
