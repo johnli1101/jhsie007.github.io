@@ -648,7 +648,7 @@ canvas{
 }
 
 .re_adv{
-  display: block;
+  display: flex;
   width: 100px;
   height: 25px;
   margin: 50px 45px 0px 0px;
@@ -737,8 +737,4 @@ canvas{
 
 .align_r{
   text-align: right;
-}
-
-.m_t{
-  top: 0;
 }
