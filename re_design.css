@@ -412,7 +412,7 @@
   border: 1px solid #E0E0E0;
   display: inline-block;
   background-image: url(images/Putty.png);
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   width: 250px;
