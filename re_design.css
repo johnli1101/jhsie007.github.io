@@ -649,7 +649,6 @@ canvas{
 
 .re_adv{
   display: flex;
-  vertical-align: top;
   width: 100px;
   height: 25px;
   margin: 50px 45px 0px 0px;
@@ -738,4 +737,8 @@ canvas{
 
 .align_r{
   text-align: right;
+}
+
+.null_margin_top{
+  margin-top: 0px;
 }
