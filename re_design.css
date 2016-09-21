@@ -684,10 +684,12 @@ canvas{
   backface-visibility: hidden;
   transition-duration: 0.1s;
   position: relative;
+  padding-right: 2em;
 }
 
 .re_adv:hover i:before{
   position: absolute;
+  padding 0 1px;
   right: 1em;
   -webkit-transform: translateZ(0);
   -webkit-transition-duration: 0.1s;
