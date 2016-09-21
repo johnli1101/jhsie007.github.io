@@ -648,16 +648,15 @@ canvas{
 .re_adv{
   border: 1px solid #E0E0E0;
   width: 150px;
-
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
   font-size: 15px;
-  text-align: right;
+  text-align: center;
   color: #0E0E0E;
 }
 
 .re_adv a{
   text-decoration: none;
-  text-align: center;
+  color: #0E0E0E;
 }
 
 .re_adv a:hover{
@@ -687,7 +686,7 @@ canvas{
   left: 0;
   bottom: 0;
   right: 0;
-  background-color: #2098d1;
+  background-color: #77AAE4;
 
   -webkit-transform: scaleX(0);
   -webkit-transform-origin: 0 50%;
@@ -710,4 +709,8 @@ canvas{
   -webkit-transition-timing-function: cubic-bezier(0.50, 1.65, 0.40, 0.70);
   transform: scaleX(1);
   transition-timing-function: cubic-bezier(0.50, 1.65, 0.40, 0.70);
+}
+
+.align_r{
+  text-align: right;
 }
