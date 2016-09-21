@@ -262,7 +262,7 @@
 .re_berk{
   border: 1px solid #E0E0E0;
   display: inline-block;
-  background-image: url("images/Berkeley.jpg");
+  background-image: url("images/Berkeley.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -352,7 +352,7 @@
 .re_tofu{
   border: 1px solid #E0E0E0;
   display: inline-block;
-  background-image: url("images/Tofu.jpg");
+  background-image: url("images/Tofu.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
