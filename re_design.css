@@ -648,7 +648,7 @@ canvas{
 .re_adv{
   border: 1px solid #0E0E0E;
   width: 150px;
-  margin: 4px 30px 0px 0px;
+  margin: 7px 40px 0px 0px;
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
   font-size: 15px;
   text-align: center;
@@ -656,15 +656,6 @@ canvas{
 }
 
 .re_adv:hover{
-  color: #FFFFFF;
-}
-
-.re_adv a{
-  text-decoration: none;
-  color: #0E0E0E;
-}
-
-.re_adv a:hover{
   color: #FFFFFF;
 }
 
