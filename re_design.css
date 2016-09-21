@@ -656,7 +656,7 @@ canvas{
 }
 
 .re_adv:hover{
-  text-color: #FFFFFF;
+  color: #FFFFFF;
 }
 
 .re_adv:hover{
@@ -696,6 +696,7 @@ canvas{
   bottom: 0;
   right: 0;
   background-color: #FF7777;
+  color: #FFFFFF;
 
   -webkit-transform: scaleX(0);
   -webkit-transform-origin: 0 50%;
