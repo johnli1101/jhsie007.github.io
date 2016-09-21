@@ -651,11 +651,21 @@ canvas{
   margin: 7px 40px 0px 0px;
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
   font-size: 15px;
+  font-weight: 600;
   text-align: center;
   color: #0E0E0E;
 }
 
 .re_adv:hover{
+  color: #FFFFFF;
+}
+
+.re_adv a{
+  text-decoration: none;
+  color: #0E0E0E;
+}
+
+.re_adv a:hover{
   color: #FFFFFF;
 }
 
