@@ -704,3 +704,10 @@ canvas{
 .springs:hover, .springs:focus, .springs:active{
   color: white;
 }
+
+.springs:hover:before, .springs:focus:before, .springs:active:before{
+  -webkit-transform: scaleX(1);
+  -webkit-transition-timing-function: cubic-bezier(0.50, 1.65, 0.40, 0.70);
+  transform: scaleX(1);
+  transition-timing-function: cubic-bezier(0.50, 1.65, 0.40, 0.70);
+}
