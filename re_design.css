@@ -647,7 +647,8 @@ canvas{
 
 .re_adv{
   border: 1px solid #E0E0E0;
-  width: 100px;
+  width: 150px;
+  right: 0;
 }
 .re_adv a{
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
@@ -676,7 +677,7 @@ canvas{
   left: 0;
   bottom: 0;
   right: 0;
-  background-color: #77AAE4;
+  background-color: #FFFFFF;
 
   -webkit-transform: scaleX(0);
   -webkit-transform-origin: 0 50%;
@@ -692,4 +693,5 @@ canvas{
 
 .springs:hover, .springs:focus, .springs:active{
   color: white;
+  background-color: #77AAE4;
 }
