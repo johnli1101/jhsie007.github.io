@@ -683,6 +683,15 @@ canvas{
   transform: translateX(4px);
 }
 
+.re_adv:hover i:before{
+  -webkit-transition-duration: 0.2s;
+  -webkit-transition-property: transform;
+  -webkit-transition-timing-function: ease-out;
+  transition-duration: 0.2s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+}
+
 .springs{
   display: inline-block;
   vertical-align: middle;
