@@ -738,14 +738,12 @@ canvas{
   transform: translateZ(0);
   backface-visibility: hidden;
   transition-duration: 0.1s;
-  padding-right: 2.0em;
   position: relative;
 }
 
 .shift:before{
   position: absolute;
   right: 1em;
-  padding: 0 1px;
   -webkit-transform: translateZ(0);
   -webkit-transition-duration: 0.1s;
   -webkit-transition-property: transform;
