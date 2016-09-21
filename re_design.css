@@ -738,3 +738,8 @@ canvas{
 .align_r{
   text-align: right;
 }
+
+.move_top{
+  top: 0;
+  position: absolute;
+}
