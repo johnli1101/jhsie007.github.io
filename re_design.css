@@ -689,7 +689,7 @@ canvas{
   position: relative;
 }
 
-.re_adv i:before{
+.re_adv:hover i:before{
   position: absolute;
   right: 1em;
   -webkit-transform: translateZ(0);
@@ -702,7 +702,7 @@ canvas{
   transition-timing-function: ease-out;
 }
 
-.re_adv i:hover:before, .re_adv i:focus:before, .re_adv i:active:before{
+.re_adv:hover i:hover:before, .re_adv:hover i:focus:before, .re_adv:hover i:active:before{
   -webkit-transform: translateX(4px);
   transform: translateX(4px);
 }
