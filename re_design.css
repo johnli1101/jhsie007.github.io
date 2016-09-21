@@ -738,3 +738,7 @@ canvas{
 .align_r{
   text-align: right;
 }
+
+.m_t{
+  top: 0;
+}
