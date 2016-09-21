@@ -680,6 +680,11 @@ canvas{
   margin: 0px 0px 0px 1px;
 }
 
+.re_adv:hover i{
+  -webkit-transform: translateX(4px);
+  transform: translateX(4px);
+}
+
 .springs{
   display: inline-block;
   vertical-align: middle;
