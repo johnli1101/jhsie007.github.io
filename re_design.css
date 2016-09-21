@@ -408,6 +408,20 @@
   overflow: hidden;
 }
 
+.re_putty{
+  border: 1px solid #E0E0E0;
+  display: inline-block;
+  background-image: url(images/Putty.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 250px;
+  height: 175px;
+  margin: 2px 0px 0px 17px;
+  position: relative;
+  overflow: hidden;
+}
+
 .clearfix:before,
 .clearfix:after{
   content: " ";
