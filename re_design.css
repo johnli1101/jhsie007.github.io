@@ -644,3 +644,50 @@ canvas{
   width: 12px;
   height: 12px;
 }
+
+.re_adv{
+  border: 1px solid #E0E0E0;
+}
+.re_adv a{
+  font-family: 'Open Sans', 'Open Sans Condensed', Arial;
+  font-size: 15px;
+  text-align: center;
+}
+
+.springs{
+  -webkit-transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+  -webkit-transition-property: color;
+  -webkit-transition-duration: 0.5s;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+  position: relative;
+  transition-property: color;
+  transition-duration: 0.5s;
+}
+
+.springs:before{
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: #77AAE4;
+
+  -webkit-transform: scaleX(0);
+  -webkit-transform-origin: 0 50%;
+  -webkit-transition-property: transform;
+  -webkit-transition-duration: 0.5s;
+  -webkit-transition-timing-function: ease-out;
+  transform: scaleX(0);
+  transform-origin: 0 50%;
+  transition-property: transform;
+  transition-duration: 0.5s;
+  transition-timing-function: ease-out;
+}
+
+.springs:hover, .springs:focus, .springs:active{
+  color: white;
+}
