@@ -701,7 +701,7 @@ canvas{
   transition-timing-function: ease-out;
 }
 
-.re_adv:hover i:hover:before, .re_adv:hover i:focus:before, .re_adv:hover i:active:before{
+.re_adv:hover i:focus:before, .re_adv:hover i:active:before{
   -webkit-transform: translateX(4px);
   transform: translateX(4px);
 }
