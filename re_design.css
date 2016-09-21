@@ -679,20 +679,6 @@ canvas{
   margin: 0px 0px 0px 4px;
 }
 
-.re_adv:hover i{
-  -webkit-transform: translateX(4px);
-  transform: translateX(4px);
-}
-
-.re_adv:hover i:before{
-  -webkit-transition-duration: 0.1s;
-  -webkit-transition-property: transform;
-  -webkit-transition-timing-function: ease-out;
-  transition-duration: 0.1s;
-  transition-property: transform;
-  transition-timing-function: ease-out;
-}
-
 .springs{
   display: inline-block;
   vertical-align: middle;
