@@ -649,11 +649,14 @@ canvas{
   border: 1px solid #E0E0E0;
   width: 150px;
   right: 0;
-}
-.re_adv a{
+  float: right;
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
   font-size: 15px;
   text-align: center;
+  color: #0E0E0E;
+}
+
+.re_adv a{
 }
 
 .springs{
