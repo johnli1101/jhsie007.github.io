@@ -259,6 +259,21 @@
   overflow: hidden;
 }
 
+.re_berk{
+  border: 1px solid #E0E0E0;
+  display: inline-block;
+  background-image: url("images/Berkeley.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 225px;
+  height: 175px;
+  margin: 2px 0px 0px 17px;
+  position: relative;
+  overflow: hidden;
+  color: #FFFFFF;
+}
+
 .re_sf{
   border: 1px solid #E0E0E0;
   display: inline-block;
@@ -323,6 +338,21 @@
   border: 1px solid #E0E0E0;
   display: inline-block;
   background-image: url("images/Pasta.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 225px;
+  height: 175px;
+  margin: 2px 0px 0px 17px;
+  position: relative;
+  overflow: hidden;
+  color: #FFFFFF;
+}
+
+.re_tofu{
+  border: 1px solid #E0E0E0;
+  display: inline-block;
+  background-image: url("images/Tofu.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
