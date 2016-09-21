@@ -704,6 +704,7 @@ canvas{
   transition-property: transform;
   transition-duration: 0.5s;
   transition-timing-function: ease-out;
+  color: #FFFFFF;
 }
 
 .springs:hover, .springs:focus, .springs:active{
@@ -720,8 +721,4 @@ canvas{
 
 .align_r{
   text-align: right;
-}
-
-.align_r:hover{
-  color: #FFFFFF;
 }
