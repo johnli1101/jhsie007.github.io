@@ -646,6 +646,7 @@ canvas{
 }
 
 .re_adv{
+  display: block;
   width: 100px;
   height: 25px;
   margin: 50px 45px 0px 0px;
