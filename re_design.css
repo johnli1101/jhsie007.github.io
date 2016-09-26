@@ -428,6 +428,20 @@
   overflow: hidden;
 }
 
+.re_moogle{
+  border: 1px solid #E0E0E0;
+  display: inline-block;
+  background-image: url(images/Moogle_Sad.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 800px;
+  height: 600px;
+  margin 2px 0px 0px 17px;
+  position: relative;
+  overflow: hidden;
+}
+
 .clearfix:before,
 .clearfix:after{
   content: " ";
@@ -746,3 +760,4 @@ canvas{
 .tune_width{
   width: 110px;
 }
+
