@@ -32,11 +32,13 @@
 
 .re_start{
   background-image: url("images/Sky.png");
+  background-size: cover;
+  background-repeat: no-repeat;
   font-size: 17px;
   font-family: 'Open Sans Condensed', Arial;
   color: #000000;
   white-space: nowrap;
-  height: 25%;
+  height: 400px;
   margin: 2px 0px 2px 17px;
   z-index: 1;
 }
