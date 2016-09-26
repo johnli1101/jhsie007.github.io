@@ -31,11 +31,12 @@
 }
 
 .re_start{
+  background-image: url("images/Sky.png");
   font-size: 17px;
   font-family: 'Open Sans Condensed', Arial;
   color: #000000;
   white-space: nowrap;
-  height: 10%;
+  height: 25%;
   margin: 2px 0px 2px 17px;
   z-index: 1;
 }
