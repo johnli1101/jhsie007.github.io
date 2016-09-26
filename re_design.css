@@ -39,8 +39,12 @@
   color: #000000;
   white-space: nowrap;
   height: 300px;
-  margin: 2px 0px 2px 17px;
+  margin: 0;
   z-index: 1;
+}
+
+.re_start h1{
+  margin: 2px 0px 2px 17px;
 }
 
 .re_menu{
