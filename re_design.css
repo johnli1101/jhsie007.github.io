@@ -200,6 +200,8 @@
 }
 
 .re_fragments{
+  display: flex;
+  flex-wrap: wrap;
   width: 1000px;
   padding: 0;
 }
