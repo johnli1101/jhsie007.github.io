@@ -618,7 +618,7 @@ canvas{
 .card-subtitle{
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
   font-size: 13px;
-  margin: 0px 0px 7px 0px;
+  margin: -5px 0px 20px 0px;
   color: #707070;
 }
 
