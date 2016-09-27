@@ -600,17 +600,19 @@ canvas{
 .card{
   margin: 2px 0px 0px 17px;
   width: 400px;
-  height: 200px;
+  height: 500px;
 }
 
 .card-img-top{
+  margin: 4px;
   width: 350px;
-  height: 150px;
+  height: 175px;
 }
 
 .card-title{
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
   font-size: 17px;
+  font-weight: 700;
 }
 
 .card-subtitle{
