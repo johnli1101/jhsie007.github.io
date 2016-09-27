@@ -599,9 +599,13 @@ canvas{
 
 .card{
   margin: 2px 0px 0px 17px;
+  width: 400px;
+  height: 200px;
 }
 
 .card-img-top{
+  width: 350px;
+  height: 150px;
 }
 
 .card-title{
