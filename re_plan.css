@@ -606,18 +606,24 @@ canvas{
 .card-img-top{
   margin: 10px 0px 4px 10px;
   width: 250px;
-  height: 175px;
+  height: 200px;
 }
 
 .card-title{
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
-  font-size: 17px;
+  font-size: 15px;
   font-weight: 700;
 }
 
 .card-subtitle{
   font-family: 'Open Sans', 'Open Sans Condensed', Arial;
-  font-size: 14px;
+  font-size: 13px;
+  color: #E0E0E0;
+}
+
+.card-text{
+  font-family: 'Open Sans', 'Open Sans Condensed', Arial;
+  font-size: 12px;
 }
 
 .touch_height{
