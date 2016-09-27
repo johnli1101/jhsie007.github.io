@@ -202,7 +202,7 @@
 .re_fragments{
   display: flex;
   flex-wrap: wrap;
-  width: 1000px;
+  width: 90%;
   padding: 0;
 }
 
