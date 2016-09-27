@@ -207,7 +207,7 @@
 .re_frame{
   display: flex;
   padding: 0;
-  width: 750px;
+  width: 100%;
   height: 750px;
 }
 
