@@ -787,9 +787,10 @@ canvas{
   top: 100px;
   width: 60%;
   height: 80%;
+  margin: auto;
   background-color: rgba(255,255,255,0.5);
 
-  border: 2px solid black;
+  border: 1px solid black;
 
 }
 
