@@ -787,6 +787,6 @@ canvas{
   top: 0;
   width: 800px;
   height: 600px;
-  background-image: url("images/Bot.png");
-  background-repeat: no-repeat;
+  background-color: rgba(0,0,0,0.5);
+
 }
