@@ -790,3 +790,15 @@ canvas{
   background-color: rgba(0,0,0,0.5);
 
 }
+
+.re_image{
+  display: block;
+  margin: auto;
+  width: 75%;
+  height: 75%;
+}
+
+.re_caption{
+
+
+}
