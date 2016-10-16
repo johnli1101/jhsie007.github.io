@@ -796,14 +796,14 @@ canvas{
 .re_image{
   display: block;
   margin: auto;
-  top-margin: 20px;
-  width: 80%;
-  height: 75%;
+  top: 20px;
+  width: 600px;
+  height: 450px;
 }
 
 .re_caption{
   display: block;
   margin: auto;
-  width: 75%;
-  height: 5%;
+  width: 600px;
+  height: 30px;
 }
