@@ -9,7 +9,6 @@ $(function(){
 
 $(document).ready(function(){
 var modal = document.getElementById('re_modal');
-var exit = document.getElementById('re_rem');
 var image = document.getElementById("re_bot");
 
 image.onclick = function() {
@@ -17,7 +16,7 @@ image.onclick = function() {
 }
 
 window.onclick = function(event) {
-  if(event.target == exit) {
+  if(event.target == modal) {
     modal.style.display = "none";
   }
 }

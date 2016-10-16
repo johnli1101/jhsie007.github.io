@@ -795,12 +795,12 @@ canvas{
   display: block;
   margin: auto;
   width: 80%;
-  height: 80%;
+  height: 70%;
 }
 
 .re_caption{
   display: block;
   margin: auto;
-  width: 100%;
+  width: 75%;
   height: 5%;
 }
