@@ -7,7 +7,7 @@ $(function(){
 
 });
 
-
+$(document).ready(function(){
 var modal = document.getElementById('re_modal');
 var image = document.getElementById("re_bot");
 
@@ -20,3 +20,5 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
+
+});
