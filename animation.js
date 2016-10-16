@@ -9,7 +9,7 @@ $(function(){
 
 
 var modal = document.getElementById('re_modal');
-var image = document.getElementById('re_bot');
+var image = document.getElementById("re_bot");
 
 image.onclick = function() {
   modal.style.display = "block";
