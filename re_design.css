@@ -780,5 +780,6 @@ canvas{
 }
 
 .re_modal{
+  display: none;
   z-index: 1;
 }
