@@ -786,8 +786,8 @@ canvas{
   z-index: 17;
   top: 100px;
   width: 80%;
-  height: 80%;
-  background-color: rgba(0,0,0,0.5);
+  height: 70%;
+  background-color: rgba(255,255,255,0.5);
 
 }
 
@@ -795,7 +795,7 @@ canvas{
   display: block;
   margin: auto;
   width: 80%;
-  height: 70%;
+  height: 75%;
 }
 
 .re_caption{
