@@ -785,7 +785,7 @@ canvas{
   position: fixed;
   z-index: 2;
   top: 0;
-  width: 100%;
+  width: 90%;
   height: 100%;
   background-color: rgba(0,0,0,0.5);
 
@@ -794,8 +794,8 @@ canvas{
 .re_image{
   display: block;
   margin: auto;
-  width: 85%;
-  height: 85%;
+  width: 80%;
+  height: 80%;
 }
 
 .re_caption{
