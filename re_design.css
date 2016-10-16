@@ -783,7 +783,7 @@ canvas{
 .re_modal{
   display: none;
   position: fixed;
-  z-index: 2;
+  z-index: 17;
   top: 0;
   width: 90%;
   height: 100%;
