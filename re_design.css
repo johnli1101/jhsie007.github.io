@@ -779,7 +779,6 @@ canvas{
   width: 110px;
 }
 
-.example{
-  color: #EE7F7f;
-
+.re_modal{
+  z-index: 1;
 }

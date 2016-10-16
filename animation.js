@@ -7,3 +7,16 @@ $(function(){
 
 });
 
+
+var modal = document.getElementById('re_modal');
+var image = document.getElementById('re_bot');
+
+image.onclick = function() {
+  modal.style.display = "block";
+}
+
+window.onclick = function(event) {
+  if(event.target == modal) {
+    modal.style.display = "none";
+  }
+}
