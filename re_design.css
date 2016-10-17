@@ -431,6 +431,7 @@
   margin: 2px 0px 0px 17px;
   position: relative;
   overflow: hidden;
+  cursor: pointer;
 }
 
 .re_putty{
@@ -445,6 +446,7 @@
   margin: 2px 0px 0px 17px;
   position: relative;
   overflow: hidden;
+  cursor: pointer;
 }
 
 .re_moogle{
