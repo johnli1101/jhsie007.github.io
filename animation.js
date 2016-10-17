@@ -9,11 +9,13 @@ $(function(){
 
 $(document).ready(function(){
 var modal = document.getElementById('re_modal');
-var image = document.getElementById("re_bot");
+var re_bot = document.getElementById("re_bot");
+
 var rem = document.getElementByID("re_rem");
 
-image.onclick = function() {
-  modal.style.display = "block";
+re_bot.onclick = function() {
+  this.modal.style.display = "block";
+  this.modal.style.right-margin = "20px";
 }
 
 window.onclick = function(event) {
