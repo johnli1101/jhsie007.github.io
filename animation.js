@@ -13,7 +13,7 @@ var re_bot = document.getElementById("re_bot");
 
 
 re_bot.onclick = function() {
-  this.modal.style.display = "block";
+  modal.style.display = "block";
 }
 
 window.onclick = function(event) {
