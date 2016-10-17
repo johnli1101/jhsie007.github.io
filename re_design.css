@@ -809,16 +809,13 @@ canvas{
 }
 
 .affix {
-  top: 0;
-  width: 50px;
+  top: 75px;
 }
 
 .affix-top {
   position: fixed;
-  width: 50px;
 }
 
 .affix-bottom {
   position: fixed;
-  width: 50px;
 }
