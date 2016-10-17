@@ -12,17 +12,12 @@ var modal = document.getElementById('re_modal');
 var modal_image = document.getElementById('re_modal_image');
 var re_bot = document.getElementById("re_bot");
 var re_heart = document.getElementById("re_heart");
-var re_putty = document.getElementById("re_putty");
 
 re_bot.onclick = function() {
   modal.style.display = "block";
 }
 
 re_heart.onclick = function() {
-  modal.style.display = "block";
-}
-
-re_putty.onclick = function() {
   modal.style.display = "block";
 }
 
