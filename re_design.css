@@ -38,7 +38,7 @@
   font-family: 'Open Sans Condensed', Arial;
   color: #FFFFFF;
   white-space: nowrap;
-  height: 100px;
+  height: 75px;
   margin: 0;
   padding: 0;
   z-index: 1;
@@ -109,7 +109,7 @@
   display: inline-block;
   background-color: #FFFFFF;
   width: 80%;
-  margin: 25px 0px 0px 225px;
+  margin: 0px 0px 0px 225px;
 }
 
 .re_word{
