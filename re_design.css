@@ -810,4 +810,14 @@ canvas{
 
 .affix {
   top: 0;
+  width: 50px;
+}
+
+.affix-top {
+  width: 50px;
+}
+
+.affix-bottom {
+  position: absolute;
+  width: 50px;
 }
