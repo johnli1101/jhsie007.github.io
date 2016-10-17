@@ -807,3 +807,7 @@ canvas{
   width: 600px;
   height: 30px;
 }
+
+.affix {
+  top: 0;
+}
