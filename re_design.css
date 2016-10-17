@@ -58,6 +58,7 @@
   margin: 0;
   margin-top: 10px;
   overflow: hidden;
+  position: fixed;
   z-index: 1;
 }
 
@@ -100,7 +101,7 @@
   width: 100%;
   margin-right: 0%;
   padding: 2px;
-  position: relative;
+  /*position: relative;*/
 }
 
 .re_rem{
@@ -489,7 +490,6 @@
 }
 
 html, body{
-  display: flex;
   margin: 0;
   padding: 0;
 }
@@ -810,12 +810,4 @@ canvas{
 
 .affix {
   top: 75px;
-}
-
-.affix-top {
-  position: fixed;
-}
-
-.affix-bottom {
-  position: fixed;
 }
