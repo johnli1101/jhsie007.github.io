@@ -96,7 +96,7 @@
 
 .re_world{
   background-color: #F7F7F7;
-  display: flex;
+  display: block;
   width: 100%;
   margin-right: 0%;
   padding: 2px;
@@ -489,6 +489,7 @@
 }
 
 html, body{
+  display: flex;
   margin: 0;
   padding: 0;
 }
