@@ -17,7 +17,7 @@ re_bot.onclick = function() {
 }
 
 window.onclick = function(event) {
-  if(event.target == modal) {
+  if(event.target == modal || event.target == re_bot) {
     modal.style.display = "none";
   }
 }
