@@ -10,13 +10,14 @@ $(function(){
 $(document).ready(function(){
 var modal = document.getElementById('re_modal');
 var image = document.getElementById("re_bot");
+var rem = document.getElementByID("re_rem");
 
 image.onclick = function() {
   modal.style.display = "block";
 }
 
 window.onclick = function(event) {
-  if(event.target == modal) {
+  if(event.target == modal|| event.target == rem) {
     modal.style.display = "none";
   }
 }
