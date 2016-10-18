@@ -7,24 +7,16 @@ $(function(){
 
 });
 
-$(document).ready(function(){
-var modal = document.getElementById('re_modal');
-var modal_image = document.getElementById('re_modal_image');
-var re_bot = document.getElementById("re_bot");
-var re_heart = document.getElementById("re_heart");
 
-re_bot.onclick = function() {
-  modal.style.display = "block";
+function display_modal(modal_id) {
+  var modal_identity = modal_id;
+  
+  modal_identity.style.display = "block";
 }
 
-re_heart.onclick = function() {
-  modal.style.display = "block";
+function hide_modal(modal_id) {
+  var modal_identity = modal_id;
+
+  modal_identity.style.display = "none";
 }
 
-window.onclick = function(event) {
-  if(event.target == modal || event.target == re_modal_image) {
-    modal.style.display = "none";
-  }
-}
-
-});
