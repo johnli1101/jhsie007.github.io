@@ -403,6 +403,38 @@
   color: #FFFFFF;
 }
 
+.re_control{
+  border: 1px solid #E0E0E0;
+  display: inline-block;
+  background-image: url("images/Control.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 225px;
+  height: 175px;
+  margin: 2px 0px 0px 17px;
+  position: relative;
+  overflow: hidden;
+  color: #FFFFFF;
+}
+
+
+.re_rice{
+  border: 1px solid #E0E0E0;
+  display: inline-block;
+  background-image: url("images/Rice.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 225px;
+  height: 175px;
+  margin: 2px 0px 0px 17px;
+  position: relative;
+  overflow: hidden;
+  color: #FFFFFF;
+}
+
+
 
 .re_bot{
   border: 1px solid #E0E0E0;
@@ -789,7 +821,7 @@ canvas{
   top: 100px;
   width: 50%;
   height: 70%;
-  margin: auto;
+  margin: 0px 0px 0px 17px;
   background-color: rgba(255,255,255,0.5);
 }
 
