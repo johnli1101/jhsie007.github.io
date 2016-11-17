@@ -37,7 +37,7 @@
   <link type="image/png" href="" rel="icon">
 
 
-<body>
+<body id="Re_World" onscroll="menu()">
   <!-- Scripts -->
   <script>
   </script>
@@ -49,7 +49,7 @@
   </div>
 
   <!-- Menu -->
-  <div class="re_menu clearfix" data-spy="affix" data-offset-top="100">
+  <div class="re_menu clearfix" id="Re_Menu">
     <div class="emilia">
       <a href="https://jhsie007.github.io" class="autumn" id="ice"></a>
     </div>
@@ -71,7 +71,7 @@
   </div>
   
   <!-- World -->
-  <div class="re_world clearfix">
+  <div class="re_world clearfix" onscroll="menu()">
   <div class="re_rem">
     
     <!-- Stay In Touch -->
@@ -80,7 +80,30 @@
         <a>Stay In Touch</a>
       </div>
 
-      <div class="re_moogle">
+      <div class="re_table">
+      <div class="field">
+        Subject
+	</br>
+        <input type="text">
+      </div>
+      <div class="field">
+        Name*
+	</br>
+	<input type="text">
+      </div>
+      <div class="field">
+        What do you like? (^__^)
+	</br>
+	<input type="text">
+      </div>
+      <div class="field">
+        Message*
+	</br>
+	<textarea rows="20" cols="75"></textarea>
+      </div>
+      <div class="submit">
+        <a onclick="touch()">Submit</a>
+      </div>
       </div>
 
       <div class="re_frame touch_height">
